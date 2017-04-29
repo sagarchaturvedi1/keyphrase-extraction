@@ -1,0 +1,5620 @@
+18	water
+17	oxidation
+13	oxide
+13	gas
+11	liquid
+11	film
+11	carbon
+9	simulations
+9	particle
+9	fluid
+8	surface
+8	oxygen
+8	isogeometric analysis
+7	solution
+7	quark
+7	photon
+7	experimental data
+7	chemical reaction
+7	alloys
+7	BEM
+6	simulation
+6	reaction
+6	mesons
+6	electron
+6	bubbles
+6	algorithm
+6	TIs
+6	SW-SVR
+6	SNG
+6	PDMS
+6	Newman–Penrose constants
+6	NURBS
+6	AFM
+5	vacuum
+5	tracer particles
+5	substrates
+5	steel
+5	solar radiation
+5	prism
+5	powder
+5	polymer crystallization
+5	pit
+5	particles
+5	multivariate EMD
+5	microscopy
+5	jerk
+5	incubated
+5	grain
+5	film surface
+5	electrons
+5	brane
+5	algorithms
+5	air
+5	added
+5	TEM
+5	T-cells
+5	SWNTs
+5	SPS
+5	ROS
+5	O2
+5	DSBs
+5	D-flat directions
+5	D-SDC
+5	B
+5	AA
+4	thermodynamic data
+4	system
+4	shape optimisation
+4	samples
+4	robot
+4	positive tension
+4	porosity
+4	polymer
+4	permeability
+4	oxide particles
+4	numerical methods
+4	nucleon
+4	nodal DG schemes
+4	mortar method
+4	hydrogen
+4	heavy quark
+4	hadron
+4	fracture
+4	films
+4	energy–momentum scheme
+4	electrode
+4	diffusion
+4	crystal
+4	coating
+4	cluster
+4	carbon nanotubes
+4	capsule
+4	bulk-mean concentration
+4	barrier layer
+4	agricultural products
+4	a-SiO2
+4	W
+4	SiO2
+4	SM
+4	SEM
+4	SA
+4	ProbLog
+4	PAs
+4	NOMAD
+4	JETSET
+4	IGABEM
+4	IBM
+4	He
+4	H2O
+4	ETC
+4	ART model
+4	2-propanol
+3	η
+3	virtual network
+3	vapour
+3	training data
+3	surface area
+3	structure
+3	solidification
+3	solid
+3	sodium plenum
+3	singularity
+3	single-lens stereovision system
+3	single strand break
+3	silicon
+3	silica
+3	shading
+3	sensors
+3	semiclathrate hydrates
+3	semiclathrate hydrate
+3	scalar fields
+3	sample
+3	robot dynamics
+3	reactions
+3	radiative spacetimes
+3	proton
+3	polymers
+3	oxide layer
+3	oscillations
+3	octyl side chains
+3	non-autonomous systems
+3	microelectrodes
+3	metal-oxide interface
+3	meshes
+3	melt
+3	liquid film
+3	lightning
+3	light quarks
+3	lettered words
+3	lepton mass matrices
+3	lepton flavor mixing angles
+3	huge waves
+3	hidden nodes
+3	gluons
+3	galloping
+3	framed cell
+3	finite element method
+3	field redefinition
+3	excitation energies
+3	electrochemical reduction
+3	e+e− colliders
+3	ducts
+3	diesel engine PT fuel
+3	design method
+3	decays
+3	data
+3	coupons
+3	cooling
+3	construction land
+3	computation
+3	compact stars
+3	charm quark
+3	cells
+3	cardiovascular system
+3	bubble
+3	boundary element method
+3	atoms
+3	alumina
+3	additives
+3	Xe
+3	WCSPH
+3	VOG
+3	Ti-based alloys
+3	TCR
+3	STFO
+3	QCD
+3	PR3
+3	PPN formalism
+3	PEMs
+3	PB
+3	O2− ions
+3	Nb+B
+3	Minkowski spacetime
+3	MWSNs
+3	LM
+3	IRB
+3	IM-HM11-01
+3	IGA
+3	HRV
+3	HPC applications
+3	GFRFs
+3	GDC
+3	FR schemes
+3	FDI
+3	Design semantics
+3	DSMC
+3	CAD model
+3	CAD
+3	Al
+3	AAMM
+2	η′
+2	workmanship defects
+2	waves
+2	wavelet analysis
+2	wave
+2	verify their validity for dynamical purposes
+2	vector mesons
+2	vector meson
+2	varnish plant
+2	van der Waals force
+2	uranium metal
+2	uranium dioxide
+2	uniform mean flow
+2	two step mechanism
+2	true surface
+2	transport system
+2	transmission electron microscopes
+2	transient response analysis
+2	tracks
+2	tool path generation
+2	titanium
+2	time series analysis
+2	thinning
+2	thin film
+2	these particles
+2	thermalization
+2	theories of gravity
+2	the weighted additive distance function
+2	tetragonal phase
+2	terthiophene unit
+2	ternary alloys
+2	tensile part
+2	temperature gradients
+2	tele-operated mobile robot system
+2	technical characteristics are described
+2	synthetic data
+2	swelling
+2	survey
+2	supporting drugs
+2	supply chain
+2	stress–inelastic strain law
+2	strand
+2	stochastic yield
+2	stimulation
+2	stems
+2	steels
+2	standard silicon system
+2	standard BEM
+2	spectrally resolved femtosecond three-pulse photon echo measurements
+2	speaker
+2	solvent
+2	software industry
+2	sodium
+2	singlet deformation
+2	single electron tunnelling
+2	single electron detection
+2	signal acquisition
+2	shortest path betweenness
+2	shear stress
+2	shear band development
+2	shadow masks
+2	service provider
+2	semi-infinite row
+2	self-assembly
+2	screws
+2	scattering methods
+2	scattering centres
+2	scattering
+2	scanning electron microscopes
+2	sandstones
+2	sample preparation
+2	rhd neutrino masses
+2	remote sensing data
+2	relative permeability
+2	reduce noise
+2	recognition
+2	reactants
+2	rails
+2	radiation
+2	q–qq
+2	q̄–q̄q̄
+2	quantum fields
+2	quantum effects
+2	quantum chromodynamics
+2	quality
+2	qq̄-mesons
+2	pupil location method
+2	proton conductivity
+2	propanol
+2	propagation process
+2	projectile and target nucleons
+2	project time and cost
+2	processing
+2	problem geometry
+2	prices compensation strategy
+2	power networks
+2	pore bases
+2	polystyrene
+2	polymerization
+2	poly-blocks
+2	pollen tube growth
+2	pollen tube
+2	polarization field
+2	polar viscous gels
+2	plastic void growth
+2	plasma
+2	pits
+2	pit growth
+2	photons
+2	photo
+2	pentaquark
+2	particle method
+2	parent ion fragmentation
+2	parameters
+2	paramagnetic
+2	oxides
+2	oxide ions
+2	optimization problem
+2	optimal voltage
+2	open shapes
+2	octyl chains
+2	numerical schemes
+2	numerical scheme
+2	nuclear reactors
+2	nuclear physics
+2	nonlinear wave equations
+2	neutron irradiation
+2	neutron
+2	neutrino mass-squared differences
+2	neutrino
+2	negative tension
+2	nanoparticles
+2	nanomaterials
+2	multiple scales approach
+2	multilayer process
+2	moving plate recognition
+2	monitor
+2	molten salt
+2	modeling approach
+2	model building
+2	minimised
+2	microfluidics
+2	microfluidic devices
+2	microCT
+2	micro and macro models
+2	micelles
+2	metal–oxide interface
+2	metal surface
+2	metal films
+2	measurement
+2	mathematical model
+2	major pores
+2	magnetism
+2	magnetic monopole
+2	magnetic field
+2	low-carbon consumption
+2	logical inference
+2	liquid films
+2	light load
+2	level set method
+2	leading prehadrons
+2	lasers
+2	laser pulse
+2	irradiation
+2	iron
+2	ionization
+2	ionic clathrate hydrates
+2	investigation
+2	interacting protons
+2	intelligent electric power distribution systems
+2	integer solutions
+2	insulator
+2	increasing energy efficiency
+2	images
+2	hydrogen recovery
+2	hooks
+2	high efficiency system
+2	heated
+2	hadron attenuation
+2	grid search
+2	gravitipole
+2	graphene
+2	glueballs
+2	geometry objects
+2	genetic algorithm
+2	galvanic system
+2	galloping data
+2	future research
+2	fusion reactors
+2	free radical polymerization
+2	framework of NURBS based shape functions
+2	framework
+2	fragmentation testing
+2	fracture strain
+2	flows
+2	finite element analysis
+2	ferritic alloys
+2	factorization
+2	face detection
+2	explicit extrapolation
+2	evaporator
+2	error curves
+2	epoxy polymers
+2	elements
+2	electrospinning
+2	electromagnetic field
+2	electrical measurements
+2	economic development
+2	duct
+2	dressings
+2	divertor
+2	disturbance waves
+2	dissociation
+2	discrete time series
+2	difference in magnetic properties
+2	diamond suspension
+2	diamond
+2	devices composing the systems are considered
+2	devices composing the systems
+2	determination of the P-parity
+2	dendrite
+2	deformed Lagrangian
+2	database
+2	data-centric Web services
+2	data mining
+2	crystallization
+2	crystalline
+2	crystal structure
+2	crystal growth
+2	crack band approach
+2	coupling of nonconforming discretized sub-domains in the framework of nonlinear elasticity
+2	coupling
+2	coupled models
+2	coupled approach
+2	core region
+2	copolymers
+2	coordinate augmentation technique
+2	constructed virtual network
+2	construct model
+2	conserving scheme
+2	conservation principles
+2	conjugate gradient algorithm
+2	computer engineering
+2	computer aided design
+2	composite waveform
+2	communication latency
+2	collisions
+2	cohesive zone elements
+2	clathrate hydrates
+2	classification scale method
+2	classification
+2	chronotaxic systems
+2	chemical reactions
+2	charm
+2	cellular beam
+2	cc-pVTZ
+2	cation
+2	catalyst
+2	cardiovascular signals
+2	carbon unit cells
+2	capsules
+2	calibration process
+2	calculations
+2	calculate the stress tensor
+2	bulk
+2	block copolymers
+2	beam pumping unit
+2	baryons
+2	autonomous mode
+2	atomic force microscopes
+2	assay pollen tube
+2	aqueous droplets
+2	antiquark
+2	analysis mesh
+2	analysis
+2	amplitude-frequency relationship
+2	aeroengine
+2	adsorption
+2	adiabatic evolution
+2	adhesive
+2	acetone
+2	aCMLLR transforms
+2	Zirconium alloys
+2	Yukawa interactions
+2	Xe diffusion
+2	XRD
+2	XES
+2	XAS
+2	WSNs
+2	W@Si12 cluster
+2	W ions
+2	VO
+2	VDC
+2	UO2 supercell
+2	UO2
+2	Time-integrated photon echo signals
+2	TGA
+2	T-odd distribution functions
+2	Stress corrosion cracking
+2	Standard Model
+2	SiC
+2	Si atom
+2	Sb2Te3
+2	SVR
+2	SUSY bulk-boundary theory
+2	SPH method
+2	SNS
+2	SCE
+2	SCC
+2	RTE
+2	QGP
+2	PuO2
+2	Pseudo-nitzschia pungens
+2	PT pump
+2	PRRs
+2	PL
+2	PCA
+2	PAM
+2	P
+2	OTS
+2	ODS steels
+2	Numerical simulation
+2	Ni(II)–OEP
+2	Ni
+2	Nb+B inoculation
+2	Nb+B inoculants
+2	Na
+2	NJL model
+2	MWSN
+2	MWNTs
+2	MSTU «STANKIN»
+2	MMPPs
+2	MINERAL
+2	MF
+2	MBR
+2	LTL-FO
+2	LSDA+U
+2	LR-CCSD
+2	LPF
+2	LPD
+2	LOI
+2	LIF technique
+2	LCPRGPD
+2	Knowledge Management System
+2	Knowledge Management
+2	Kalman filter
+2	KMS
+2	Journal Influence Score
+2	Jerks
+2	Isogeometric analysis
+2	ISAT
+2	IM-HM11-01 and IM-HM11-02
+2	IEC
+2	ICCP
+2	Higgs mass
+2	Higgs
+2	HfO2
+2	Hammerstein model
+2	Hamilton–Jacobi equation
+2	HSQ
+2	HOMO–LUMO
+2	HOMOylide–LUMOylide–pyrene
+2	HIP
+2	HDMR
+2	GT graphs
+2	GP
+2	GO chart
+2	FeSO4
+2	Fe lattice
+2	Fe
+2	FTMS
+2	FSI
+2	FIB
+2	FETI
+2	E′ centres
+2	EMDB
+2	EM sensors
+2	EM algorithm
+2	ELRs
+2	EDS
+2	DoD jetting
+2	DOTT molecule
+2	DNA
+2	DG
+2	DFT
+2	DCPD
+2	DBR stack
+2	D-mesons
+2	CpG
+2	Co(II)–OEP
+2	Cloud
+2	Chesnavich model Hamiltonian
+2	CVD techniques
+2	CVD
+2	CSTR
+2	CFL phase
+2	CFD
+2	CAD geometry model
+2	B¯0
+2	Bi2Te3
+2	B0
+2	Alloy 600
+2	Al2O3
+2	ATF
+2	AOP
+2	AC and DC grids
+2	AAMM technique
+2	2SC phase
+1	〈Vγ|Oi|B〉=FB→VTiI+∫dk+2π∫01duφB,+(k+)TiII(k+,u)φV⊥(u)
+1	∼7% reduction in the tetragonal phase
+1	ℓ
+1	“triple-driven” three-dimensional software development practical teaching system
+1	“soft-lithography” techniques
+1	“semihard pomeron”
+1	“re-arming” of T-cells with supporting drugs
+1	“map of misery”
+1	“logical inference” in PB
+1	“logical inference”
+1	“grind-free” nanoprecursor route
+1	“catalytic gas flow CVD”
+1	“carpet” growth of carbon nanotubes (CNTs) from catalyst particles embedded in a substrate
+1	“bulges”
+1	“MIT bag model” of the nucleon
+1	“Bödewadt, Ekman and von Kármán” (BEK) flows
+1	“(hypothesized) models”
+1	‘top-down’ mechanism for the formation of fullerene
+1	‘top-down’
+1	‘template’ for the ensuing development of microstructure and associated rheological properties
+1	‘micro’ model
+1	‘large’ magnitude step change
+1	‘hybrid’ model
+1	‘hop’ into
+1	‘free’ fragmentation function
+1	‘clean’ separation
+1	‘bottom-up’ approach
+1	ϵCH3,H2O, ϵCH2,H2O
+1	ϕ
+1	ω
+1	ψKsπ0
+1	φ⊥V(u
+1	τ2=280fs
+1	τ2=240fs
+1	τ1=36fs
+1	τ1=35fs
+1	σnp
+1	σf=Efilmεf
+1	ρ decay width
+1	ρ
+1	π±
+1	π+(p1)π0(p2)ρ−:h(p1−p2)μεμ
+1	π and π⁎ subbands
+1	π
+1	λCH3,H2O, λCH2,H2O
+1	θ12 and θ23 mixing angles
+1	η meson exchange
+1	η meson
+1	εμναβ∂βw−−FγδaFaγδ=0
+1	δn
+1	δ meson
+1	γγ collider
+1	γp scattering
+1	γ-ray radiation
+1	γ-ray induced DSB
+1	β-21S
+1	αh1 and αh2 could be measured
+1	α-ω-aminohexylcarbamate derivative of cyanocobalamin
+1	α-Al dendritic grain
+1	Φ
+1	Σ
+1	Ξ−−
+1	Ξ particle
+1	Λ
+1	Θ+ sum rule
+1	Θ+ baryon
+1	Θ+
+1	Δm2 values can be fitted by taking the spectrum of rhd neutrino masses
+1	Γ(ρ)=h2(|pπ|)3/(6πmρ2)
+1	µ-CT
+1	zirconium unit lattice
+1	zirconium grain
+1	yttria stabilized zirconia
+1	ylides and ylidepyrene adducts
+1	ylides
+1	ylidepyrene adducts
+1	ylidepyrene
+1	ylideC7–ylidepyrene/C2
+1	ylideC2/C6–ylidepyrene-C3
+1	ylide
+1	yield
+1	xanthene dyes
+1	wt %
+1	world boundary
+1	working fuel cell
+1	work-hardened metals
+1	within a picosecond for Zn(II)–OEP
+1	wire piece
+1	wire
+1	window’s front pane
+1	window components
+1	width of this active region
+1	wide range of cooling rates
+1	whole optimal voltage changeable rule.
+1	wet and dry etching
+1	well-tested single electron circuit simulator
+1	well defined phase space dividing surfaces attached to NHIMs
+1	weights
+1	weighted additive model
+1	weighted additive distance function
+1	weight the photons
+1	weight percent
+1	weight change during these tests was monitored continually
+1	weight change
+1	web-coater drum
+1	web-based models
+1	web-based instructional environment
+1	weathering
+1	wear condition
+1	weakly penalized formulation
+1	weakly penalized and PL approaches
+1	weakly penalized
+1	weakly compressible SPH formulation
+1	weakening
+1	weak vertices are obtained
+1	we found another example of it
+1	wavelet transform
+1	waveguide problems
+1	waveforms
+1	wave-like solutions
+1	wave ‘breaks’
+1	wave function
+1	wave field
+1	wave breaking
+1	wave amplitudes
+1	water-soluble monomers
+1	water-in-oil
+1	water-gas shift reaction
+1	water nuclear reactors
+1	water inlet temperature
+1	water flow rate
+1	water flow
+1	water cooled nuclear fission reactors
+1	water constituents
+1	wastewater flocculation treatment
+1	wastewater flocculation
+1	warped geometry
+1	wall system
+1	wall surfaces
+1	wall extension
+1	wafers
+1	volumetric proportion of air
+1	volume-average approach
+1	voids without helium
+1	voids
+1	voice activity detector
+1	vocabulary system
+1	vital sensors
+1	visualized
+1	visualization of defects
+1	visualization and analysis of massive climate data
+1	visual sensor and landmarks to monitor
+1	viscous case
+1	viscous bulk medium
+1	viscoelastic relaxation effects
+1	viscoelastic porous medium
+1	virtual upwind node is incorporated in the gradient ratio rf
+1	virtual storage system
+1	virtual reconstruction
+1	virtual reality technologies
+1	virtual network construction method
+1	virtual methods
+1	video images
+1	vibronic coupling models
+1	vibronic coupling model
+1	vibrational transition
+1	vibrational and the configurational parts
+1	vessel modeling for surgery planning
+1	vessel modeling
+1	very sensitive low-cost devices
+1	very low average porosity levels
+1	very intense laser pulses
+1	very coarse meshes
+1	vertices of ρ's to pseudoscalar mesons
+1	vertical displacement estimation of conventional pile groups subjected to mechanical loads
+1	versatility of simplified (approximate) methods
+1	versatile platform for creating a variety of hydrogel scaffolds
+1	verifying the existence of paths from the affected hyperedge
+1	verify the proposed methodology
+1	verify Web service specifications
+1	verbal questions
+1	velocity of individual waves
+1	velocity distribution
+1	vector-pseudoscalar coupling
+1	vector-pseudo scalar interaction
+1	varying the population times
+1	varying the element spacing and the number of antenna array elements
+1	varying amounts of steelwork
+1	variational format in the space–time domain
+1	variational approach
+1	variation in ferrite content with depth
+1	variables
+1	variable cut-off grade
+1	vapour pressure of carbon
+1	vapour phase
+1	van der Waals interaction
+1	values that are less similar result in a lower density
+1	values of viscosity
+1	value of |de|
+1	validity of semi-classical boundary conditions
+1	valence quark wave function
+1	vacuum-fabrication procedures
+1	vacuum-deposition
+1	vacuum state
+1	vacuum radiative spacetime
+1	vacuum evaporated
+1	vAcademia
+1	uudds̄ pentaquark
+1	utilized time-and-frequency EMG feature extraction methods
+1	uterine sarcoma cells
+1	using various factors in a weighted manner
+1	using it as a soluble mould in the fabrication process
+1	usefulness of adopting rather Multi-Clouds strategy
+1	use this method
+1	use of quasiclassical trajectories
+1	use of more compact decision diagrams
+1	use of cold joints
+1	uranium
+1	upper plenum
+1	upper bound the minus second (and third) stage cost
+1	upper atmosphere
+1	updating subroutines
+1	up to N synthetic orthogonal KPIs
+1	unusual hydrates of tetrabutylammonium salts
+1	untargeted
+1	unstructured meshes
+1	unstructured high-order method
+1	unstaggered formation of stirrup
+1	unrolling
+1	unreacted titanium
+1	unpaired electron
+1	unmethylated CpG dinucleotides
+1	universal photon field
+1	universal approach nonlinear
+1	unity of art and science
+1	unitary average level density
+1	unipolar devices
+1	unintegrated gluon distributions
+1	uniform shrinking
+1	unified management platform
+1	unified framework
+1	uniaxial polar agents
+1	uniaxial active agents
+1	understanding the confinement physics from first principles
+1	understanding of what is going on during oxidation
+1	understanding of the morphology of the metal:oxide interface
+1	understanding of the characteristic profiles, scales and dynamics of these interfacial waves
+1	understanding individual particle impacts
+1	understand whether or not the strongly interacting matter formed in these collisions reaches chemical and/or thermal equilibrium
+1	understand the variability of the cardiovascular system
+1	understand the role that composition has on the oxidation behavior of Ti-based alloys
+1	understand the nature of the coating failure
+1	understand processes they are involved
+1	underlying structure
+1	underlying fluid mesh
+1	underlying equations
+1	undergo vacuum fluctuations
+1	uncertainty quantification of the crack propagation phenomenon
+1	unburned residues from coal
+1	un-experienced managers
+1	ultrathin Al layers
+1	ultrasound
+1	ultrasonic solvent cleaning
+1	ultrasonic bath
+1	ultra-nanocrystalline diamond
+1	ultra high vacuum
+1	uGDF
+1	u
+1	two-step decay model
+1	two-stage stochastic programs
+1	two-sided max-linear systems and programs
+1	two-phase interface problems
+1	two-layer and unified visco-plasticity models
+1	two-dimensional waveguide problems
+1	two-dimensional space
+1	two-dimensional sigma models on compact symmetric spaces G/H
+1	two-dimensional grating problems
+1	two-dimensional chaotic systems
+1	two- echelon supply chain
+1	two- and three-dimensional solids
+1	two stage stochastic program
+1	two scatterers
+1	two problem domains
+1	two or three terms
+1	two dimensional thermal-solutal phase field model
+1	two di-interstitials on adjacent sites
+1	twist-2 operators
+1	twist of the first CC single bond
+1	twist distribution
+1	turnstile’s two QDs
+1	turbulent mixing
+1	tuning the background field
+1	tuned and optimized
+1	tune the parameters
+1	tubular sensor
+1	tube
+1	true Hamiltonian
+1	tritium retention issue
+1	tritium retention
+1	tritium
+1	triggered consecutively
+1	triaxial tensile stress
+1	trial-and-error
+1	tri-interstitials
+1	tri-block copolymer
+1	tri-axial tensile stress
+1	trends of the economic variables
+1	tree topology, closed loop and spatial robot systems
+1	treatment of the Coulomb distortion
+1	treating graft rejection or autoimmunity
+1	treat the wastewater
+1	treat the relativistic harmonic oscillator
+1	trapping of positive charge in thin layers of a-SiO2 grown on silicon surfaces
+1	trapped in the bulk and at surfaces of silica
+1	trapped
+1	transverse profile
+1	transverse flow
+1	transport model
+1	transport in semi-conductors
+1	transmutation-created inert gas
+1	transmission electron microscopy
+1	transition moments
+1	transition metal
+1	transition form factors defined through the matrix elements of the operator O7, φB
+1	transients
+1	transformed
+1	transformation matrix
+1	transform the resulting wave functions into light-cone form
+1	transform canonically under the deformed supersymmetry
+1	transferred lymphocytes
+1	transferred into the air chambers
+1	tramway superstructure
+1	trajectory surface hoping (TSH) method
+1	trajectory surface hoping
+1	trajectory simulations
+1	training show-based aCMLLR transforms
+1	training network connection
+1	traditional question databases
+1	traditional approach
+1	tracking
+1	track the copper and electrolyte interface
+1	track the air density
+1	tracer fraction
+1	tracer exchange experiments
+1	trace eye movement
+1	trabecular bone
+1	toxic effects
+1	totally symmetric [4]O state
+1	total system energy
+1	total conductivity
+1	total angular momentum
+1	topological insulator
+1	top layers of the metal
+1	tomography technique
+1	to provide users with greater flexibility in data reporting
+1	to predict the final net shape and size
+1	to perform high frequency capacitance–voltage (HF CV) measurements
+1	to learn from nature
+1	titanium and aluminum foils
+1	titanium aluminide alloy
+1	tip–surface separation
+1	timescales
+1	timescale
+1	time/axial position/void fraction information
+1	time-varying volatility
+1	time-varying data analysis algorithm
+1	time-stepping method for coupled systems
+1	time-resolved data
+1	time-dependent dynamical systems
+1	time-dependent anti-tumor activity
+1	time series model
+1	time domain I=(0,T)
+1	time derivatives of the three fields coupled to forms involving variational derivatives
+1	time consumption
+1	tiled-LCD ultra-resolution display
+1	thyristor trigger angle
+1	through silicon via
+1	throttle valve
+1	thrombin-induced polymerisation
+1	thresholding
+1	three-stage recourse model
+1	three-dimensional wavy structures
+1	three spin-on carbon hardmasks
+1	three dimensional thermal phase field model
+1	three different approaches
+1	this technique
+1	this reaction
+1	this approach
+1	thinning of the barrier layer by either field-assisted dissolution
+1	thinner resist films
+1	thinned tungsten composite nanowire
+1	thin-wall limit
+1	thin photoresist films
+1	thin films of HfO2
+1	thickness of the liquid films
+1	thermoreversible gelation
+1	thermogravimetric balance
+1	thermodynamics of copper-zinc alloys (brass)
+1	thermodynamic equilibrium
+1	thermo-electric co-simulation
+1	thermal–mechanical analysis of P91
+1	thermally targeted delivery of drugs
+1	thermally sprayed
+1	thermal tracer exchange
+1	thermal spray process
+1	thermal spray
+1	thermal oxidation
+1	thermal conductivity
+1	theory of level set
+1	theory of active polar viscous gels
+1	theoretical study
+1	theoretical proof for the correctness and completeness of the algorithms
+1	theoretical framework
+1	theoretical experimentation
+1	theoretical calculations
+1	theoretical basis
+1	the z-dependence of RMh
+1	the window regions
+1	the weighted additive model with a distance function structure
+1	the variance of the projection of the samples is maximum
+1	the universe may end up in de Sitter phase
+1	the time where the interface passes a certain grid point is influenced only by those neighboring grid points which are previously passed by the interface
+1	the system
+1	the smaller number density has to be weighted with the higher flux of interacting protons
+1	the simplest version of PCA
+1	the reduction in error between iterations reaches a decay threshold
+1	the reaction of a gaseous carbon feedstock to form the nanotubes on catalyst particles
+1	the reaction of a gaseous carbon compound as feedstock
+1	the projection of the samples generates the highest variances
+1	the polymer with butylated melamine formaldehyde resin
+1	the notion of locality
+1	the most effective, cheap, and scalable CVD techniques
+1	the metal
+1	the material
+1	the light-quark sum rule
+1	the impact of various controls
+1	the hyperon Y
+1	the gauge and supersymmetry transformations
+1	the fullerene production method of laser ablation
+1	the formation of the Θ+-baryon
+1	the first N^
+1	the fate of the soliton
+1	the electrochemical parameters
+1	the effective Lagrangian
+1	the effect of controls
+1	the different expressions describing the correlation of hardness with conventional macroscopic mechanical properties
+1	the decay form factor αd measurement
+1	the coupling constant λ
+1	the components
+1	the coating properties of fluorinated acrylic copolymers
+1	the bag boundary condition modifies the vacuum fluctuations of the field
+1	the back reaction of the fermion zero-modes on the soliton
+1	the bX final state
+1	the angle θ13
+1	the absorption cross sections
+1	the GI-LI-N cell line
+1	the Fermi and Gamow–Teller transitions
+1	text words
+1	text summarization
+1	tetrahedra
+1	tetragonal to monoclinic phase transformation
+1	tests
+1	testing the final lift
+1	testing model
+1	tested by some examples with actual machining
+1	test whether haptic patterns can convey or enhance the mood music
+1	test utterance
+1	test the effects
+1	test performance of the platform
+1	test performance
+1	test matrix
+1	ternary chalcogenide
+1	tensile straining
+1	temporal propagation
+1	temperature cycling
+1	temperature cycles
+1	technology for the manufacturing of components to (near) net-shape
+1	technological innovation
+1	technical support
+1	tearing and interconnecting approach of finite element methods
+1	teaching
+1	targeting cancer cells
+1	targeted particles
+1	target languages
+1	target d1
+1	taking an average between them
+1	takes negative values for points located outside the technology and non-negative values for points into the production possibility set
+1	taken in consideration
+1	take the spin equal to 1/2
+1	tail gas
+1	tadpole cancellation conditions
+1	tack
+1	tabulation and interpolation program
+1	s̄gsσ·Gs
+1	s̄
+1	systems installed previously
+1	systems biology approach
+1	systematic understanding of the phenomenon
+1	systematic theoretical methods
+1	systematic search for Standard-like models
+1	system shown in Fig. 1
+1	system reconfigurability
+1	system quadratic performance optimization
+1	synthetic oligodeoxynucleotides
+1	synthetic assessment method based on cloud theory is applied
+1	synthetic assessment method
+1	synthesized in the liquid phase
+1	synthesize the results from the deep seismic images of the upper mantle
+1	synthesise a range of nanoparticle co-precipitate precursors
+1	synthesis of polyesters
+1	synthesis of polyacrylics
+1	synthesis of block copolymers
+1	synthesis of ROMP-able optical sensor molecules
+1	synthesis and XRD characterisation
+1	synergistic toughening effects
+1	synchrotron X-ray
+1	synchronous variables financial systemic risk
+1	symmetric potentials
+1	symmetric geometries
+1	switches the control mode from autonomous to haptic based
+1	swept-wing flow
+1	swept-wing
+1	swept wing
+1	swelling of the PAA inter-penetrating network
+1	swelling differential
+1	sweeping
+1	sustained development of new devices
+1	sustainability of transportation system
+1	survey of course curriculums
+1	surrounding medium
+1	surrounding fluid
+1	surrogate model
+1	surrogate geometry model
+1	surgery planning
+1	surfactant molecules
+1	surfaces of the wall
+1	surfaces of a-SiO2
+1	surfaces
+1	surface traction
+1	surface tension
+1	surface temperature [
+1	surface suction
+1	surface solid crust
+1	surface sensitive probes
+1	surface roughness tester
+1	surface roughness of the coating was evaluated
+1	surface profile
+1	surface discretisation
+1	supra-molecular structures
+1	supporting adjuvant drugs
+1	support, or area of influence, of a filter
+1	support vector regression
+1	support point coordinates for the gradient field
+1	supplies
+1	supersymmetry
+1	superposition operator
+1	supernova neutrino energies
+1	supernatant
+1	superfilling
+1	superconductivity
+1	superconducting resonant circuit
+1	super-partners
+1	super-conformal invariance
+1	summarize the basic principles of phase dynamics
+1	sum rule
+1	sulfonic acid groups
+1	sufficient amount of cores
+1	sudden singularity
+1	such fields
+1	subtraction
+1	subsystems
+1	subsystem of four light quarks is in a state of orbital symmetry
+1	substrate
+1	subsequent formation of pentagons
+1	subleading-twist transverse-momentum dependent functions
+1	subleading order in an expansion in 1/Q
+1	subdivision surfaces
+1	subdivision surface
+1	subdivided into either prisms or tetrahedra
+1	sub-Ångstrom resolution
+1	sub 50fs
+1	studying polymer crystallization
+1	studying flow patterns around heart valves
+1	study the motion of the planet
+1	study the mechanical behavior
+1	study the influences of the evolution of the universe on the size of the black hole
+1	study the charmonium productions and decays
+1	study the approximate fitting of large M3PPs
+1	study of thermal conductivity
+1	study of the isovector part of the nuclear equation of state
+1	study of spectral fluctuations
+1	study cosmology on the brane when it is moving in the charged black hole backgrounds
+1	study
+1	studies of the nitrogen exchange reaction
+1	studies of microstructure
+1	studies of microstructural evolution
+1	studies
+1	structured triangle mesh
+1	structure solution
+1	structure and composition of the particles
+1	structural transformations in graphene-like structures
+1	structural system modeling
+1	structural risk minimization principle
+1	structural material changes
+1	structural material
+1	structural cores
+1	structural components
+1	structural and chemical changes
+1	strongly interacting matter
+1	strongly curved ducts
+1	strong magnetic field
+1	strong four-point vertices involving pions are obtained
+1	strong energy condition
+1	strong coupling limit
+1	string/D-brane theory
+1	string like solutions
+1	string cosmology
+1	stress–inelastic displacement law
+1	stress tensor field
+1	strange quark mass
+1	strained under uni-axial tension
+1	strain
+1	straight parallel duct
+1	stone impact
+1	stockpiling
+1	stochastic 
+1	stochastic simulated technique
+1	stochastic optimization methods
+1	stochastic factors
+1	stochastic MPSP
+1	stirrup hooks
+1	stimulated
+1	stepwise regression method
+1	step-growth polymerization
+1	stem axes
+1	stem
+1	steel–concrete interface
+1	steel rod
+1	steel rebars
+1	steam warming
+1	steam generator tubes
+1	steady state Wigner functions
+1	stay-in-place poly-blocks
+1	statistics of high-lying energy levels
+1	statistical multiplexing of several MMPPs
+1	statistical methods
+1	statistical descriptors
+1	statistical approaches
+1	statistical analyses of this film thickness
+1	statistical analyses
+1	static surfaces
+1	static nonlinear characteristics of Hammerstein model
+1	state/output/action rules
+1	state space explosion
+1	standard theories
+1	standard silicon modules
+1	standard model
+1	standard e+e− option
+1	standard algorithms
+1	standard EMD
+1	stainless steels
+1	stainless steel thin films
+1	stainless steel powder
+1	staining
+1	stableness
+1	stable stars
+1	stable particles of hydrophilic and water-soluble polymers
+1	stable brane configurations
+1	stabilize them
+1	stabilization of the monomer droplet
+1	stability characteristicsupon
+1	stability and accuracy of the formulation
+1	stabilise the stage and the microscope
+1	squarks
+1	spurious separation of energy into the discretised bins
+1	spreading activation scheme
+1	spraying tests
+1	sprayed
+1	spray system
+1	sports biomechanics
+1	spontaneously trap
+1	spontaneous symmetry breaking of scale invariance
+1	spontaneous baryogenesis
+1	splitting
+1	split interstitial” type clusters
+1	split interstitial clusters
+1	spiral vortices
+1	spin–spin interaction
+1	spin–orbit interaction
+1	spin 0 field is localized on a brane
+1	spintronics materials
+1	spins and parities of Θ+ and Ξ−−
+1	spin-on-hardmask
+1	spin-on carbon compositions
+1	spin-0 slepton
+1	spin forbidden reactions
+1	spin coating
+1	spin
+1	spherical aggregates
+1	speed up
+1	spectrophotometer
+1	spectral properties
+1	spectral fluctuations
+1	spectral and temporal evolution of the photon echo signals
+1	spectra
+1	spectator partons
+1	spectator interactions
+1	specific material properties,
+1	specific application of security investigation procedure ontology and reasoning
+1	specific algorithms
+1	speaker clustering
+1	speaker adaptation
+1	spatio/temporal measurement
+1	spatially-oriented bins
+1	spatial domain Ω
+1	spatial domain (4000km×4000km) is simulated
+1	spatial discretisation
+1	spatial direction region
+1	sparticle decays
+1	span all the Higgs mass regions up to 1 TeV
+1	space–time slabs
+1	space–time domain
+1	space geometrical objects
+1	space environment design
+1	sp3 hybrid orbital
+1	sound wall system
+1	sound propagation
+1	some related approach
+1	some examples with actual machining
+1	solving the full Einstein equations
+1	solving the bound state problem
+1	solving problems in unbounded domains
+1	solving conservation laws of the shallow water equations
+1	solves the diagonal example of Kawahara equation
+1	solvers for large-scale problems in computational mechanics
+1	solved the instantaneous Bethe–Salpeter equation
+1	solved the full Salpeter equation
+1	solve the valence quark wave function for mesons
+1	solve the singular field equation
+1	solve the linear relaxation
+1	solve the cross-cutting concerns
+1	solve the corresponding integrated planner problem
+1	solutions
+1	solution of the Monte Carlo method
+1	solution calorimetry
+1	soluble mould
+1	solids
+1	solid solution
+1	solid phase
+1	solid forming volatiles
+1	solid formation
+1	solid CDI
+1	soldering
+1	solar, atmospheric, reactor (KamLAND and CHOOZ [10]) and accelerator (K2K) neutrino data
+1	solar neutrino mixing
+1	solar neutrino
+1	solar cells
+1	software project management course
+1	software project management
+1	software management
+1	software development process
+1	software development
+1	soft-lithography techniques
+1	soft sensor
+1	sodium boiling
+1	social networking services
+1	smart antennas
+1	smaller lithographic nodes
+1	small segregation effects
+1	small quark
+1	small finite graphene flake
+1	small deviations from equilibrium
+1	small coupling for quartic interaction
+1	small coupling
+1	small amplitude oscillatory shear
+1	small Ni-particles (3–6nm)
+1	slugs
+1	slug flow velocities
+1	slug
+1	slicing procedure
+1	six space–time dimensions
+1	site-specific nanowire size reduction
+1	sinusoidal tracking test
+1	sintering-based technique
+1	sintering process
+1	sintered component
+1	singlet representation
+1	singlet case
+1	single-particle inclusive DIS
+1	single-jet inclusive DIS
+1	single-electron decay spectra
+1	single-crystalline YSZ substrates
+1	single vacancy formation energy
+1	single step
+1	single photon of γ-ray
+1	single phase fluid
+1	single outer surface
+1	single optical system
+1	single function
+1	single factor experiment
+1	single electron spins
+1	single Cloud
+1	simulation physical conditions
+1	simulation particles
+1	simulation of incompressible fluid flow
+1	simulation cell
+1	simulation and effects of the additives
+1	simulating QCD
+1	simulated signal
+1	simulated scenarios
+1	simulated parameters
+1	simulated by applying tensile stress in direction 1, 2 and 3
+1	simulate frictionless  [44] and frictional  [43] contact and collision
+1	simplifies the solutions
+1	simple polymers
+1	simple model problems
+1	simple metals with sufficiently delocalized wave functions
+1	simple metals
+1	simple cell
+1	simple Hamiltonian with a two-body potential 
+1	simple
+1	silicon surfaces
+1	silicon pattern transfer
+1	silicon nanopillars
+1	silicon dangling bond
+1	silica nanoparticles
+1	silica column chromatography
+1	significant reduction in the number of zones and monitoring probes
+1	significant reaction barriers
+1	signaling molecules
+1	signal decomposition algorithm
+1	signal acquisition and processing
+1	short-time quantum propagator
+1	shockwave
+1	shock heating
+1	shifts in the electrometer current
+1	shifting-by-one-period idea
+1	shifting the semi-infinite row
+1	shells
+1	shell model for Fermi and Gamow–Teller transitions
+1	shell model
+1	shed some first light on a posteriori error analysis for IGABEM
+1	shear-thickening
+1	shear viscosity
+1	shear lag model
+1	shape optimisation techniques
+1	shape optimisation of high-voltage devices
+1	shape offsetting
+1	shape derivative
+1	shape a piecewise-polynomial solution over each local discrete cell
+1	shallow water equations
+1	shadow mask
+1	shading analysis
+1	shading algorithms
+1	shade loss
+1	severe technical challenge
+1	several subdomains
+1	several optimizations
+1	several datasets from practical applications
+1	settlement ratio method
+1	setting proposed by NOMAD
+1	set up the reasonable and practical financial systemic risk early-warning index system
+1	set of experimental Tafel curves
+1	series structure
+1	sequences of optimal walks of a growing length in weighted digraphs
+1	sequences of entries of max-algebraic matrix powers with growing exponents
+1	sequence of equally spaced levels
+1	separate the entropic effects
+1	separate and extract specific type of spectroscopic information
+1	sentential decision diagrams
+1	sensor molecules
+1	sensor
+1	sensitivity analysis
+1	semicrystalline polymers
+1	semi-quantitative model
+1	semi-infinite substrate
+1	semi-classical methods
+1	semi-classical arguments in weak coupling limit
+1	semi classical treatment of dynamical correlations
+1	semantic reasoning tools
+1	semantic networks
+1	self-folding hydrogel scaffolds
+1	self-consistent quantum mechanical multiple scattering formalism
+1	selected sample
+1	select this configuration
+1	select one of two possible parameters
+1	seismic travel times
+1	seismic tomographic techniques
+1	seismic stations
+1	segmenting
+1	segmented block copolymers
+1	seesaw mechanism
+1	see-saw mechanism
+1	see how they are different from the Θ+(1540) sum rule
+1	sediment transport
+1	security risks
+1	security limitations
+1	security investigation procedure ontology and reasoning
+1	secular variation
+1	secular acceleration
+1	second stress state
+1	second pyridinium ylides
+1	second order tensor-product interpolation
+1	search mechanism
+1	search for unusual situation
+1	search for local and global optima
+1	scratch test method
+1	scratch indentations were carried out
+1	scientific influence
+1	science and engineering problems
+1	scholarly journals
+1	schematic form
+1	scheduling process
+1	scheduling problem
+1	scheduled cancellations
+1	scene
+1	scenarios of iron ore content
+1	scattering intensities
+1	scattering from the gel network
+1	scanning tunneling microscopy/spectroscopy
+1	scanning electron microscopy
+1	scanning electron micrograph
+1	scallop height
+1	scale-separated
+1	scale-invariant Lagrangian
+1	scale-adaptive
+1	scale up
+1	scale factor blows up
+1	scale elasticity and strains from the level of the extravascular bone matrix to that of cortical bone
+1	scalar δ field to the symmetry energy and the isospin dynamics is particularly explored
+1	save resources and storage the galloping data
+1	sandstone
+1	sampling frequency
+1	sample surface
+1	sample holders
+1	sample average approximation approach
+1	sample atoms
+1	sample and the tracer particles
+1	safety level
+1	safety critical components
+1	safer designs of future nuclear reactors
+1	sacrificial layer of PAA
+1	ruthenium carbene catalysts
+1	rusting
+1	rubber with silica nanoparticles
+1	rubber toughened epoxies
+1	rubber particles
+1	routing protocols
+1	routing in a MWSN
+1	route data
+1	roughness
+1	rotational energy
+1	rotation face detection architecture
+1	rotating disk
+1	rotated side chains
+1	rolling phase
+1	rolling bearings
+1	rolling bearing
+1	rolling ball
+1	rolling
+1	roll
+1	role of software engineering courses
+1	role of e-procurement
+1	role of communication latency
+1	robustness of self-assemled PAs to electrospun nanofibers
+1	robustness
+1	robotic automation
+1	road plane
+1	rise and decay components
+1	ring-opened polymers
+1	rigorous theoretical study
+1	rewrite the metric from the cosmic coordinates system to the Schwarzschild coordinates system
+1	reviews the work carried out for diversity and convergence issues in EMO
+1	review of available database collections
+1	review
+1	reverse current analysis
+1	reverse current
+1	reveal their isomeric features
+1	return
+1	retune some of the parameters
+1	retrovirally-transduced cells
+1	retrospective assessment of environmental carrying capacity
+1	retrieve reliability parameters
+1	retrieve
+1	resultant films
+1	result comparison
+1	restrict pollen tube growth to a single focal plane
+1	response rate
+1	resonant dipole–dipole interactions
+1	resonances outside the constituent quark model
+1	resonances
+1	resolving sub 10nm features
+1	resolving nonlinear wave equations
+1	resolve the velocity and shear-stress profiles
+1	resolve the film thickness
+1	resistive contributions of the oxygen reduction kinetics
+1	residue
+1	residual nucleus
+1	research tool
+1	research on the moving plate recognition algorithm
+1	repulsive spherical atoms
+1	replication of molds
+1	replaced by gluonic operators in the heavy quark expansion
+1	renormalization
+1	renormalisability
+1	removing the magnetic field
+1	removal rate
+1	removal of the resulting product
+1	remote sensing images interpretation
+1	remote sensing images
+1	remote sensing image
+1	remote place
+1	remeshing
+1	remaining flux density
+1	reliable light-cone wave functions
+1	reliable data of the total excess entropy
+1	reliability-centered maintenance system
+1	reliability computation
+1	relaxations
+1	relaxation processes
+1	relaxation mechanisms
+1	relax the assumptions
+1	relativistic wave function of the bound state
+1	relativistic system
+1	relativistic harmonic oscillator
+1	relativistic framework
+1	relativistic equation
+1	relativistic energies
+1	relativistic deuteron wave function
+1	relativistic corrections are quite large
+1	relativistic calculation of decay constants
+1	relativistic bound state problem
+1	relative flow sheet
+1	relational databases
+1	reinforcement learning
+1	reinforced concrete structures
+1	regressions
+1	regression analysis based method
+1	regression analysis
+1	regional economic development
+1	region or season specific information
+1	regioisomers
+1	regioisomer conformations
+1	refractive planes
+1	refractive index changes
+1	refraction of prism
+1	reflection problem
+1	reflect
+1	refinement of cast Al alloy
+1	refinement of Al–Si cast alloys
+1	reference solutions
+1	reference material
+1	reduction of the conductivity
+1	reduction of the available percolation pathways
+1	reduction in the average molecular weight
+1	reducing the upper axial reflector width
+1	reducing the thickness of the boundary layer and the magnitude of crossflow velocity
+1	reducing the thickness of the boundary layer
+1	reducing the impact of the two dynamic factors
+1	reducing the costs
+1	reducing swelling
+1	reducing conditions
+1	reducing Web services to data-centric Web applications
+1	reduces the geometric error
+1	reduced incorporation
+1	reduced etch resistance of thin photoresist films
+1	reduce the lattice strain
+1	reduce neutron backscattering from the reflector region above the plenum
+1	reduce neutron backscattering
+1	redox cycle
+1	redesigning the varnish plant
+1	rectangular grid in two or three dimensions
+1	recrystallized Zircaloy-4
+1	recover network cost
+1	recourse function
+1	recourse decision
+1	records of outages and interruptions
+1	reconstruction of vessels
+1	reconfigures the topology of the constructed virtual network
+1	reconfiguration of the constructed virtual network
+1	reconfigurability analysis
+1	recognizing
+1	recognition of the smallest spot area
+1	recent reports
+1	recent measurements on the prompt J/ψ
+1	receiving multiple weighted inputs
+1	receive contributions also from T-odd distribution functions
+1	recalibration of underlying parameters
+1	recalculation of pyroxene analyses
+1	recalculation of multiple common minerals
+1	recalculation of magnetite and ilmenite
+1	recalculation of amphibole analyses
+1	recalculate the formula of multiple minerals
+1	reasoner mechanism
+1	rearrangement
+1	real-time processing
+1	real-time dynamics control
+1	real-time control
+1	real-life system
+1	real condition
+1	readily available and fast throughput methods
+1	reactor
+1	reactivity reduction
+1	reactive gas
+1	reaction sintering
+1	reaction medium
+1	reaction induced phase separation mechanisms
+1	re-organisations within crystals at the lamellar scale
+1	re-meshing
+1	ray effect
+1	rationalization
+1	rate of convergence
+1	rate of 7.5 samples an hour
+1	rate for μ→eγ
+1	rate coefficients
+1	rarefied gas flows
+1	rare particles
+1	rare decay
+1	rapid quenching
+1	rapid prototyping service
+1	rapid prototyping
+1	rapid mixing and incubated
+1	rapid changing for a topology of a virtual network
+1	ranked models
+1	range of temperatures chosen
+1	random copolymers with covalently bound eosin and/or ethyl dimethylamino benzoate units
+1	radio-masers
+1	radio echo
+1	radical initiators
+1	radiative transport equation
+1	radiative spacetime
+1	radiative corrections
+1	radiation-induced DSBs
+1	radiation induced mechanisms
+1	radiation dilution coefficient
+1	radiating gluons
+1	q–q̄
+1	quickly lose their energy even at z=0
+1	quick stick
+1	questions in polymer crystallization
+1	question generation for job interview
+1	queries
+1	quenched lattice calculation
+1	qubit research
+1	quark–gluon mixed condensate
+1	quark state
+1	quark sector
+1	quark propagators
+1	quark phase
+1	quark pair
+1	quark model
+1	quark mass corrections
+1	quark distributions of isospin symmetric quark matter
+1	quark condensate
+1	quantum walk search
+1	quantum theory calculation of the static energy between two charges
+1	quantum shell effects
+1	quantum search algorithm
+1	quantum search
+1	quantum mechanical features
+1	quantum liquids
+1	quantum integrability
+1	quantum field treatment
+1	quantum field theory
+1	quantum computation
+1	quantum circuit model
+1	quantum chaotic systems
+1	quantum approach
+1	quantized treatment
+1	quantization
+1	quantitative introduction of a reactive functionality into the polymer chain end
+1	quantitative analysis
+1	quantify the quality obtained for a gas well drilling project
+1	quantify the joint uncertainty in the characteristics of the iron ore deposit
+1	quantify the best set of parameters
+1	quantification of the mean film thickness, wave amplitudes and liquid entrainment rates
+1	quantal states
+1	qualitatively similar conclusions
+1	qualitatively describe dynamical processes.
+1	qualitative description of the momentum behaviour of the Ayy parameter of the 9Be(d,p)X reaction
+1	qualitative charge transport
+1	quadrature analysis
+1	quadratic speed up
+1	quadratic equation
+1	quad-interstitials
+1	quad-interstitial
+1	qq̄gn
+1	pπ
+1	p̄
+1	pyrrolidine attached pyrene
+1	pyrolysis behaviour
+1	pyrene adducts
+1	put limits on the Higgs mass
+1	put a firm lower bound on the Higgs mass
+1	purely elastic material
+1	pure-component systems
+1	pseudo-atoms
+1	provincial seismic networks
+1	providing sufficient load-carrying capacity
+1	providing some key insights for process design and operations
+1	providing a statistical ensemble in the spirit of [29]
+1	provides mineral formula recalculations combined with the associated propagation of the analytical uncertainties
+1	provide a modular flexible framework
+1	provide a full characterisation including both linear and nonlinear viscoelastic properties
+1	prove the uniqueness
+1	protons
+1	proton transport
+1	proton interaction rate
+1	proton conduction
+1	proteins
+1	protective current was interrupted
+1	protecting aluminium alloys
+1	prosthesis controller
+1	proposes a new approach to improve the performance and scalability of HPC applications
+1	proposed ‘top-down’ mechanism of the fullerene formation
+1	proposed method
+1	proposed framework is applied
+1	propose a construct model
+1	properties analysis
+1	properly shaped coil
+1	proper software management trainings
+1	propagators for the dynamical fields
+1	propagator
+1	propagation of unsteady disturbances
+1	proofs for the leading-twist case
+1	promote a nationwide fitness activities
+1	project managers
+1	project management
+1	profit allocation
+1	profile
+1	production plan
+1	production of electronic products
+1	production of aero-engine components
+1	production of IFN-γ and the generation of IgG2a
+1	production management system
+1	production
+1	product fails
+1	producing environmentally triggered self-folding all hydrogel scaffolds
+1	produced through a variety of synthesis techniques
+1	produced (pre-)hadrons
+1	produce titanium and titanium aluminide alloy products
+1	produce successful product
+1	produce biodegradable and cell adhesive hydrogels
+1	produce Al2O3 layers
+1	processing plant
+1	processing of topological operations
+1	processing of the direction predicates
+1	processes are identified
+1	process-driven model
+1	process of self-assembly of graphene nanoribbons
+1	procedure of design of cellular beam is illustrated
+1	problems of creating and introducing intelligent management systems
+1	problem that the diesel engine PT fuel system is unable to field maintain
+1	problem of dynamics, rewritten in first-order form
+1	probing method
+1	probing electrical characteristics
+1	probes
+1	probe tack
+1	probe laser
+1	probable scenarios
+1	probability density functions
+1	probabilistic methods
+1	prisms
+1	principal component analysis
+1	primary production asymmetry
+1	primary photon–nucleon reaction
+1	primary and the adjoint boundary value problems
+1	preventing excessive swelling in water
+1	prevent e-beam deflection due to charge build-up on the surface
+1	pressurized water reactors
+1	pressurized instrument penetrations
+1	pressures at either the bubble or the dew point
+1	pressure in the etch chamber
+1	pressure die-casting process
+1	preserving an acceptable speed
+1	presents the results of studies of the effect of multiwalled carbon nanotubes
+1	presented on the example of Ti-Al system
+1	present the security limitations in the single Cloud
+1	present simulations only for non-zero bias voltages
+1	present material
+1	present a modification scheme
+1	present Universe
+1	prepolymer
+1	prepared
+1	preparation of optimal sample geometries for X-ray nano-CT
+1	preparation of macromonomers
+1	preparation of end-functionalized ring-opened polymers
+1	preparation of crosslinked microgels in the presence of difunctional crosslinkers
+1	premagnetised
+1	preliminary results
+1	prediction of the theory
+1	predicting e−(e+) event rates
+1	predicted relationships
+1	predicted cell electrical conversion efficiency
+1	predict the values of decay constants
+1	predict the trend of FDI
+1	preclinical models
+1	precipitates
+1	precipitate on the surface of the SiC grains
+1	precipitate
+1	pre-oxidation techniques
+1	practical skills
+1	practical rolling bearing signal
+1	practical multivariate signals
+1	practical modelling
+1	practical engineering
+1	pp-collision
+1	power-law model
+1	power plant
+1	power grid security investigation procedure
+1	power generation
+1	powder material
+1	powder consolidation maps
+1	powder XRD screen
+1	powder X-ray diffraction
+1	potentiometers
+1	potentials and limitations of the presented approach
+1	potentials
+1	potential-based methods
+1	potential power
+1	potential based investigation
+1	potential
+1	post-melting material characterisation
+1	post-irradiation electron injection
+1	possibilities of the contribution from two-virtual-photon mediate processes
+1	positron
+1	positive charge trapping
+1	positive charge
+1	position estimation method
+1	portable signal acquisition and analysis system
+1	portable seismic arrays
+1	porous media
+1	porous films
+1	porosity structures in parts
+1	porosity structure changes
+1	porosity in AM components
+1	porosity images
+1	porosity distribution
+1	pores
+1	pore walls
+1	population times
+1	population relaxation dynamics
+1	population based search procedures
+1	poor nonlinear convergence
+1	poor network performance
+1	pomerons
+1	pomeron emissions
+1	pomeron
+1	polyurea
+1	polynomials
+1	polynomial space
+1	polynomial expansion
+1	polymers where the elastic strains
+1	polymerization techniques
+1	polymerization reactions
+1	polymeric fluid
+1	polymer substrates
+1	polymer particles
+1	polymer nanostructures
+1	polymer matrix
+1	polymer lamellar crystal
+1	polymer chain end
+1	polyimide
+1	polyethylene naphthalate (PEN) substrates
+1	polyethylene naphthalate
+1	polyethylene materials
+1	polyesters
+1	polycrystalline diamond
+1	polyaniline nanoparticles
+1	polyamide
+1	polyacrylics
+1	poly-dimethylsiloxane microchannel device
+1	poly-block voids
+1	poly-block
+1	poly(vinyl alcohol)
+1	poly
+1	pollen tubes grow
+1	pollen tubes
+1	polishing cloth
+1	polishing
+1	polisher
+1	polished
+1	polarization transfer
+1	polarization
+1	polar-angle distributions of leptons and b-quarks
+1	point defects trap sites
+1	plutonium dioxide
+1	plenum
+1	platinum ingots
+1	platinum
+1	platform
+1	plates
+1	plasticity potential ratios
+1	plastic analysis of beam section
+1	plasmas
+1	plasma theory
+1	plasma facing components
+1	plasma electrons
+1	plasma devices
+1	plant reproduction
+1	plant
+1	planispirally coiled ammonoid shells
+1	pit propagation
+1	pit edge
+1	pipelines
+1	pile group-related problem
+1	piezo axial vibrator
+1	piece of the QCD parton ladder sandwiched between two soft pomerons which are connected to the projectile and to the target in the usual way
+1	picket fence
+1	physiological components
+1	physically relevant minima
+1	physical spacetime dimension
+1	physical model
+1	physical domain is parameterized
+1	physical (as distinct from numerical) approximation
+1	photoproduction
+1	photon of γ-ray
+1	photon maps
+1	photon map
+1	photon echo spectra
+1	photon echo signals
+1	photolithography development
+1	photolithographic patterning
+1	photolithographic operation
+1	photochemical reaction of DCPD
+1	photo-radiation
+1	photo-induced damage
+1	photo irradiation
+1	phosphorous
+1	phosphorescent complex platinum tetrakis(pentafluorophenyl)porphyrin
+1	phenomenological theory of relaxation processes
+1	phenomenological soft pomeron exchanges
+1	phenantroimidazoles
+1	phases are mixed
+1	phase-space discretisation
+1	phase-shifts at any (but small) momenta
+1	phase-pure heterometallic Ruddlesden Popper type La4Ni3−xFexO10 materials
+1	phase transformation
+1	phase tracking functions
+1	phase synchronization
+1	phase purity
+1	phase field model
+1	phase equilibrium experiments
+1	phase dynamics
+1	phase change materials for refrigeration systems
+1	pharmacyte approach
+1	perturbative corrected methods
+1	perturbative (high pt) partons
+1	perpendicular angles
+1	perovskite
+1	permutation-inversion groups
+1	permeability estimation models
+1	periods
+1	periodic orbit dividing surfaces
+1	performed in-situ with LM or SEM
+1	performance-based design
+1	performance of linear algebra solvers
+1	performance of direct solvers
+1	performance
+1	perform casting process simulations with incorporated full diffusion-governed solidification kinetics
+1	percolation pathways
+1	perceptions of the quality of local water resources
+1	perceptions of the adequacy of local water supplies
+1	peptide-targeted SL[DXR]
+1	peptide-MHC-functionalized nanoparticles
+1	peptide-MHC ligands
+1	peptide
+1	penetration
+1	penalty regulation
+1	penalty method
+1	penalized formulations
+1	pedagogical example
+1	patterned hydrogel films
+1	pattern-recognition receptors
+1	pattern recognition
+1	pattern matching
+1	pattern collapse
+1	patient's condition
+1	patient
+1	parton-based Gribov–Regge theory
+1	partitioning the inspection data
+1	particular sensor geometry
+1	particle–surface interaction mechanism
+1	particles moving in a space-time continuum
+1	particle's plane wave
+1	particle species
+1	particle recrystallization and solidification
+1	particle filters
+1	particle filter
+1	participation in water based recreation
+1	partial pressure
+1	partial orderings
+1	part of the mass range favored by the LEP results
+1	parsing of virtual network topology
+1	parity symmetry
+1	parity of the pentaquark
+1	parity
+1	parent ion
+1	parasitic small ferromagnetic particles
+1	parametrisation of the surface elements
+1	parameterized
+1	parameter αγ1
+1	parameter settings
+1	parameter estimation
+1	paramagnetic E′ centre signals
+1	paramagnetic E′ centre
+1	parallel stem axes
+1	parallel polymer stems
+1	parallel efﬁciency
+1	pan-cake geometry of the active core region
+1	pairs of decays
+1	pT-spectra
+1	pQCD c-quarks
+1	p+A reactions
+1	p
+1	oxygen tracer experiments
+1	oxygen reduction kinetics
+1	oxygen plasma
+1	oxygen ions
+1	oxygen ion conductor
+1	oxygen containing species
+1	oxygen atoms
+1	oxygen K-edge
+1	oxidizing species
+1	oxidized
+1	oxidised
+1	oxidise
+1	oxide-ion diffusion
+1	oxide scale
+1	oxide leakage current
+1	oxide free surface
+1	oxide films
+1	oxide dispersion strengthened
+1	oxide development
+1	oxidation test
+1	oxidation of these alloys
+1	oxidation of the metal
+1	overview of current trends in digital library research
+1	overcoming a significantly large energy barrier
+1	overcome problems
+1	overall EM properties
+1	outward migrating Al3+ ions
+1	outer layer
+1	our targeted formulations
+1	our mechanism
+1	other approaches
+1	other abundant organic elements
+1	ossil mass occurrences
+1	oscillatory components
+1	orthotopic model
+1	orthogonal design experiment
+1	orthodox theory
+1	organic–inorganic hybrid particles
+1	organic systems
+1	organic structures
+1	organic solvents
+1	organic semiconductor photophysics
+1	organic medium
+1	organic materials
+1	organic coagulant aid
+1	organic LEDs
+1	organic
+1	ordered structures
+1	optimize the hidden node number
+1	optimization technique
+1	optimization routine
+1	optimization process
+1	optimization algorithms
+1	optimised surrogate geometry model
+1	optimised structure
+1	optimisation problems
+1	optimal maintenance scheduling for a structure
+1	optimal maintenance schedule within the proposed framework
+1	optimal convergence rates
+1	optimal control
+1	optical sensor moieties
+1	optical pumping
+1	optical properties of the bottom [Rib(λ), Bi] and the atmosphere
+1	optical properties
+1	optical lasers
+1	operators listed in (9) and (10) have to be included
+1	operational constraints
+1	operation of organic optoelectronic devices
+1	open shape
+1	open literature
+1	ontology-based Power Grid knowledge base
+1	ontology Technology
+1	online teaching reformation
+1	online call of thermodynamic data
+1	ongoing inspection
+1	one-loop partition functions
+1	one- and two-dimension
+1	old age surveillance
+1	oil–water homogenisation
+1	oil-soluble surfactants
+1	ohmic contact
+1	octyl chain
+1	obtaining the accuracy of the former with the efficiency of the latter
+1	obtained values
+1	obtain the optimal number of hidden nodes
+1	obtain the historical development situation of reclamation domain
+1	obtain the deformed surface
+1	obtain sufficient mobility via capillary action
+1	obtain explicit expressions for the new kernels
+1	obtain better agreement
+1	obtain a quadratic equation
+1	obstacle detection and classification application
+1	obstacle
+1	observed spectral features
+1	observed prompt redeposition
+1	observed in arc discharge fullerene reactors
+1	observed dynamics
+1	observed conductivity
+1	observed a discrepancy
+1	observe their growth in detail.
+1	observe the surroundings
+1	objects hopping on a lattice instead of particles
+1	objects detecting, tracking and recognizing
+1	objects
+1	objectives
+1	objective analysis on the sports-biomechanics factors
+1	object-orientation-based direction relation
+1	object point
+1	numerically verify the stability, convergence and accuracy of several W2 variants
+1	numerical tests
+1	numerical test cases
+1	numerical strategy
+1	numerical simulations
+1	numerical simulation problem
+1	numerical simulation method
+1	numerical scheme of complexity nlogn to compute the support values on the grid
+1	numerical plausibility degrees
+1	numerical oscillations
+1	numerical modeling of TSV filling
+1	numerical interpolation
+1	numerical experiments
+1	numerical evaluation of queueing models
+1	numerical and asymptotic approaches
+1	numerical and analytical methods
+1	numerical analysis of IGABEM
+1	number of independent sub-problems
+1	number of different gases
+1	number of deaths and directive property loss
+1	null steering performance
+1	null depths
+1	nucleon–nucleon low-energy interactions
+1	nucleons
+1	nucleon remnants
+1	nuclei
+1	nuclear reactions
+1	nuclear power spectra
+1	nuclear power reactors
+1	nuclear model dependencies
+1	nuclear fusion devices
+1	nuclear dynamics studies
+1	nuclear absorption cross section for the charged current neutrino reactions
+1	ntelligent management systems
+1	novel use of sacrificial layer embossing
+1	novel algorithm is proposed
+1	novel algorithm
+1	notion of renormalisation
+1	notion of locality
+1	not follow the build direction
+1	normalization
+1	normal quark matter
+1	norbornene
+1	norbornadiene
+1	nonrelativistic quantum chromodynamics
+1	nonparametric approach
+1	nonlinearly viscoelastic diffusion problems
+1	nonlinear relativistic harmonic oscillator
+1	nonlinear predictive controller
+1	nonlinear predictive control
+1	nonlinear model recongnization
+1	nonlinear convergence
+1	non-uniqueness and the symmetry properties of the Wigner function
+1	non-standard couplings
+1	non-singular solutions with a four-dimensional Poincaré
+1	non-singular solution
+1	non-singular cosmology
+1	non-singular away from a conical defect
+1	non-singular and stable brane solution
+1	non-rectilinear meshes
+1	non-polar compounds
+1	non-physical penalty energy functions
+1	non-localities found
+1	non-linear chiral Lagrangian
+1	non-linear cell mismatch effects
+1	non-interacting particles
+1	non-fragile state feedback controllers
+1	non-fragile state feedback controller
+1	non-fragile controller design method
+1	non-ferromagnetic Nickel based alloys
+1	non-equidistant
+1	non-diagonal charged lepton mass matrix
+1	non-destructive X-ray characterization technique
+1	non-defective continuum random network model
+1	non-cardiac-gated sequence
+1	non-bridging oxygen centre
+1	non-adiabatic systems
+1	non-abelian gauge theories
+1	non-ODS steels
+1	node-to-segment contact method
+1	nodally integrated tetrahedron
+1	nodal integration and NS-FEM
+1	nodal
+1	noble gas atoms
+1	no correlations and therefore no redundancy are present
+1	nitrogen glovebox
+1	nitrogen
+1	nfinite derivative expansion
+1	next-to-next-to-leading orde
+1	newer extensions
+1	new wave of pentaquark research
+1	new regularity results
+1	new non-conventionalprocedure
+1	new method to get the reliability of system based on GO methodology
+1	new method to assay pollen tube growth
+1	new kernels
+1	new generation network technologies
+1	new form of high dimensional model representation
+1	new family of kernel functions
+1	new approach to the “grind-free” nanoprecursor route to direct combinatorial solid state synthesis
+1	neutron star
+1	neutron scattering investigations
+1	neutron leakage
+1	neutron damage
+1	neutrino sector
+1	neutrino mass matrix
+1	neutrino absorption cross section
+1	neutral paramagnetic defects
+1	neutral oxygen vacancy
+1	neutral donor ligands/substrates
+1	neutral 2SC matter
+1	networks of primitive functions
+1	network virtualization technology
+1	network attack
+1	negatively charged defects
+1	negative tone electron sensitive resist
+1	nearest neighbour lookup
+1	near-divertor” ionization
+1	navigates in the environment
+1	natural phenomenon
+1	natural navigation
+1	natural language processing
+1	natural evolution
+1	natural convection
+1	natural catalysts
+1	natural and artificial forms
+1	native oxide
+1	narrowing in the range of unstable parameters
+1	nanotubes
+1	nanotube sidewall
+1	nanostructures
+1	nanostructured
+1	nanosphere lithography
+1	nanoscale DQD pair
+1	nanoparticle drug carriers
+1	nanoparticle co-precipitate precursors
+1	nanoparticle carrier
+1	nanomaterials manipulation
+1	nanogels
+1	nanodevices
+1	nanocomplexes
+1	nano-scale He bubbles
+1	nano-clays
+1	nano-CT
+1	n- and p-type
+1	muscles synergies extraction
+1	muon anomalous magnetic moment
+1	multivariate signal
+1	multivariate data processing algorithm
+1	multivariable curve fitting
+1	multivalent spherical micelles
+1	multiscale systems comprising an arbitrary number of coupled models
+1	multiscale reduction method
+1	multiprocessor interactive systems
+1	multiplying the output probabilities pl obtained for all of its frames
+1	multiple-scales approach
+1	multiple-scales analysis
+1	multiple stage stochastic programming approach
+1	multiple split quad-interstitial clusters
+1	multiple layers of mesh
+1	multiple gate electrodes
+1	multiple Caputo fractional derivatives in time
+1	multiphase volume average solidification model
+1	multilevel market model
+1	multilayer processes
+1	multi-term time fractional diffusion equation
+1	multi-temporal remote sensing images
+1	multi-physics description of a multiscale system
+1	multi-frequency EM sensors
+1	multi-component polymeric materials
+1	moving plate recognition system
+1	moving plate recognition algorithm
+1	mouse model
+1	mould materials
+1	mould
+1	motorway bridge structures
+1	motion tracking
+1	motion of the particle
+1	motion estimations
+1	motion estimation
+1	motion
+1	most favorable regioisomer conformation
+1	most concentrated (1.1wt%) solution
+1	mortar finite element method
+1	mortar finite element
+1	morphology
+1	morphological studies
+1	more stable exponential coefficients
+1	more appropriate behavior
+1	monomers
+1	monomer droplet
+1	monoclinic and stabilised tetragonal phases
+1	monochromatic wave
+1	monochlorobenzene
+1	monitoring of optical changes
+1	monitored by six dedicated thermocouples
+1	monitor sets
+1	momentum space expression
+1	momentum of final state pions in the ρ rest frame
+1	molybdenum catalysts
+1	molybdenum alkylidene initiators
+1	molybdenum
+1	molecular treatment
+1	molecular structure
+1	molecular precursors
+1	molecular models
+1	molecular dynamics simulations
+1	molecular configurations
+1	molecular collisions
+1	molded low-density polyurethane
+1	modules
+1	module
+1	modulation of the electrical properties
+1	modifying the current density
+1	modified olivine
+1	modified effective momentum approximation
+1	modified L-shaped decomposition
+1	modifications in the core geometry
+1	modifications
+1	modification scheme
+1	modification of the previous model using a linearized phase diagram
+1	modification made to eliminate blooming and rusting
+1	models the continuum, macroscopic mechanics
+1	models
+1	modelling the rate of growth of oxide
+1	modelling the flow of a slightly compressible single phase fluid in a viscoelastic porous medium
+1	modelling of the cochlea
+1	modelling of red blood cells in Poiseuille flow 
+1	modelling of plasmas of arbitrary degeneracy
+1	modelling
+1	modeling the crack initiation and propagation within a unified framework
+1	modeling real systems
+1	modeling hypergraph
+1	modeling data-centric Web services
+1	modeling approaches
+1	model-based methods
+1	model which takes into account the variations of the smallest thickness measurements
+1	model to test aspect-oriented software
+1	model the stable but time-varying frequencies
+1	model the ability of biological nervous systems to recognize patterns and objects
+1	model of the smallest thicknesses
+1	model for U4O9
+1	model device operations during single electron detection
+1	model characterizing repair of a cracked structure
+1	model calibration
+1	model and quantitatively simulate the sintering process
+1	model Hamiltonian
+1	model
+1	mode-switching
+1	modal distribution
+1	mobile applications
+1	mobile ad hoc network
+1	mixtures of H2O
+1	mixtures
+1	mixing in the charged-lepton mass matrix
+1	mixing effects
+1	mixing
+1	mixed conducting thin film electrodes
+1	mixed conducting cathode materials
+1	mixed and Galerkin finite element spatial discretization
+1	mix design
+1	mitigates the noise
+1	mitigate bias
+1	mitigate
+1	missed level can be obviously detected as a hole in the spectrum
+1	minimum stages
+1	minimal path sets are induced
+1	minimal path sets
+1	miniemulsion polymerizations
+1	migration of vacancies and SIAs
+1	migration
+1	migrating them to Cloud environments
+1	microwave background
+1	microstructures
+1	microstructure and electro-chemical processes
+1	microstructure
+1	microstructural phase balances
+1	microstructural evolution processes
+1	microstructural evolution of these steels under neutron irradiation
+1	microstructural component
+1	microscopic and scattering methods
+1	microscopic (predominantly soft) parton cascades
+1	microscopes
+1	microphone
+1	micrometeorological data
+1	micromechanics model
+1	micromechanics formulation
+1	microfluidic
+1	micro-contact set-ups
+1	micro scale plasmas
+1	micro element
+1	mice with the pseudo-metastatic model
+1	method of planes
+1	method introduced by Ubbink and Issa
+1	methanol masers
+1	metallic current collector
+1	metallic conductivity
+1	metal:oxide interface
+1	metal/oxide interface
+1	metal wire pieces
+1	metal coating
+1	metal catalyst particles
+1	meson
+1	mesh-based methods
+1	mesh refinement
+1	mesh
+1	merging of integrity constraints
+1	memory constrained mobile platforms
+1	membrane
+1	melting and holding sub-process
+1	melting
+1	medium neutron–proton cross sections
+1	median-based Otsu image thresholding algorithm
+1	mechanoregulatory feedback control
+1	mechanisms by which He in a perfect body-centred-cubic (bcc) Fe lattice, can agglomerate into bubbles
+1	mechanical system
+1	mechanical stimuli
+1	mechanical behavior
+1	mechanical and thermal property analysis
+1	mechanical alloying
+1	measuring the thermal conductivity
+1	measuring the shift of the ground state energy
+1	measuring the low temperature heat capacity (5 to 300K) versus composition behaviour
+1	measurements of the complex shear modulus
+1	measurements of cardiovascular signals
+1	measurement scenario
+1	measurement of γγH couplings
+1	measurement of the excess vibrational entropy
+1	measurement of sin2β
+1	measured the kinetics of 2D pit propagation
+1	measured dielectric range
+1	measured
+1	measure the scientific influence of scholarly journals
+1	measure the spin–spin correlation parameter
+1	measure the spins of the new particles
+1	measure the enthalpy increments
+1	measure productivity over time
+1	means that technical inefficiency is measured following the Pareto-Koopmans notion of efficiency
+1	mean swirling flow
+1	mean flow
+1	mean film thickness
+1	mean field approximation
+1	maximum stress
+1	maximum side lobe level
+1	maximal HOMO–LUMO overlapping
+1	max-linear programs
+1	matrix materials
+1	matrix geometric methods
+1	mathematical systems biology of bone
+1	mathematical procedures
+1	mathematical model is constructed
+1	mathematical foundation of a corresponding adaptive algorithm
+1	mathematical experimentation
+1	materials that exhibit full plasticity
+1	material internal structure
+1	matching algorithm
+1	massless spin-1/2 particles
+1	massive climate data
+1	mass loss rate
+1	masers hydroxyl molecules
+1	maser clusters
+1	market splitting
+1	markedly strain sensitive materials
+1	marine reclamation
+1	mapping to dimensionless levels
+1	mapping the resultant model into the frequency domain
+1	map the air void content variation
+1	manufactured stabilized zirconia
+1	manufactured partially stabilised zirconia
+1	manufacture of self-folding hydrogel scaffolds
+1	manually disambiguated corpus
+1	manipulation of single electron spins
+1	manipulate with an individual object
+1	manganese
+1	management
+1	major types of learning scenarios
+1	major hole trap
+1	maintenance scheduling
+1	maintenance of fire protection systems
+1	main magnetic field
+1	main Higgs production mechanism
+1	magnitude of crossflow velocity
+1	magnetic remanence method
+1	magnetic monopoles
+1	magnetic density
+1	made the assumption
+1	macro’ model
+1	macroscopic van der Waals force
+1	macroscopic shrinkage
+1	macroscopic part of the tip
+1	macroscopic Si tip
+1	macromonomers
+1	macromolecular carriers
+1	macroinitiators
+1	macroeconomic variable of correlative economic powers
+1	macroeconomic variable
+1	macro-CT
+1	macro solver
+1	macro solution
+1	macro scale atmospheric plasma
+1	mSUGRA model point
+1	mH>114 GeV
+1	m-th microphone pair
+1	lyophilisation
+1	lying on the floor
+1	lunar laser ranging
+1	lump sum
+1	luciferase activity
+1	lowest electronic singlet
+1	lower the energy of the whole system
+1	lower energy protons
+1	low-carbon economy
+1	low-carbon economic development
+1	low temperatures
+1	low energy regime
+1	low energy effective theory
+1	low energy current algebra
+1	low energy configurations
+1	low energy cascades in Pu and PuGa
+1	low emotional involvement
+1	low electronic conductivity
+1	loop tack
+1	loop around
+1	looking at the systems installed previously and calculating
+1	longitudinal waves
+1	longitudinal bars
+1	long-term sustained benefits
+1	long, relative to their cross section
+1	logical formulas
+1	locate in the last case a single missed level
+1	locate and approximate phase boundary
+1	localizes the graviton
+1	localized on the brane 
+1	localized on the brane
+1	localization mechanisms
+1	localization
+1	localised unpaired electron
+1	localised tensile stresses
+1	local mechanisms of irreversible energy loss
+1	local cooling
+1	local basis functions
+1	loading force and penetration depth were recorded and their respective values were correlated with the observed failure locations
+1	loading force and penetration depth were recorded
+1	living systems
+1	living polymerization with quantitative initiation
+1	living polymerization techniques
+1	living polymerization
+1	living ROMP technique
+1	lithium chloride–potassium chloride eutectic molten salt
+1	liquid-phase sintering
+1	liquid water
+1	liquid surface
+1	liquid jet breakup
+1	liquid film thickness
+1	liquid film flows
+1	liquid entrainment
+1	liquid diffusion-governed solidification kinetics
+1	liposomes
+1	liposome LCPRG
+1	liposome LAPRG
+1	liposome LAP2
+1	liposome LAP1
+1	liposome LA
+1	liposome DOTMA/DOPE
+1	liposome
+1	link up of nano pores
+1	linearly extended chains
+1	linearized elasticity
+1	linear to the degree of freedom
+1	linear sub-problem
+1	linear response
+1	linear relationship
+1	linear predictive control
+1	linear or convex functions
+1	linear operators
+1	linear model
+1	linear elastin-like AB di-block copolymers
+1	linear collider
+1	linear autoregressive mode
+1	linear advection
+1	linear SVR
+1	linear PCA
+1	line intensities
+1	line galloping prevention
+1	line galloping
+1	lighter structural component
+1	light-quark sector
+1	light-front dynamics
+1	light-cone wave functions
+1	light-cone Hamiltonian approach
+1	light rail transport system
+1	light propagation in a scattering medium with piece-wise constant refractive index
+1	light polyurethane foam
+1	light neutrino masses
+1	light neutral mesons
+1	light microscopy
+1	light lasers
+1	light absorption
+1	ligand
+1	library
+1	level set equation
+1	level set
+1	lepton-jet invariant mass distributions
+1	lepton mixing term
+1	length effect
+1	length dependence of electronic transport properties
+1	leg partons
+1	least-squares polynomial fit
+1	least-squares fit
+1	learning process
+1	learning
+1	learnable property
+1	leading-twist light-cone distribution amplitude
+1	leading-twist B-meson wave-function with k+ being a light-cone component of the spectator quark momentum
+1	leading logarithmic approximation
+1	layered media
+1	layered composites
+1	layer
+1	lattice strain
+1	lattice model
+1	lattice QCD computation of nucleon–nucleon low-energy interactions
+1	lattice QCD computation
+1	lattice
+1	lateral distribution of the tracer
+1	lasing threshold of organic structures under optical pumping
+1	laser-driven plasma wave
+1	laser control principles
+1	laser ablation
+1	laser
+1	larger potential energy spacing
+1	large-scale commercial production
+1	large wordnet
+1	large rectifying ratio
+1	large problems
+1	large mixing and mass splitting for the solar neutrino oscillation
+1	large higher-order QCD corrections
+1	large deformation contact problems
+1	large Larmor radius
+1	laminar-turbulent transition
+1	lamella
+1	lagged and non-lagged backward Euler time stepping method
+1	lacy pit cover formation
+1	lacy pit cover
+1	laboratory and synchrotron radiation
+1	kt-factorization approach
+1	knowledge-based merging
+1	knowledge-base merging
+1	knowledge sharing of knowledge Base in expert system
+1	knowledge base
+1	knowledge Base
+1	knowledge
+1	knock-on damage by electrons of the imaging electron beam (e-beam)
+1	kink solution
+1	kinetics parameters
+1	kinetically stable macroemulsions
+1	kinetic energy
+1	kinematical on-shell equations
+1	kernel interpolation functions
+1	kernel functions
+1	kernel approximation
+1	keep the gas density stable
+1	kaon antiflow
+1	kaon
+1	k-means
+1	jetting fluid combinations
+1	jetting
+1	jerks
+1	its gauge invariant extension
+1	its contribution to leptogenesis and baryogenesis
+1	iterative process
+1	iterative extension of the standard static photon mapping
+1	isovector meson fields
+1	isotropic melt
+1	isotropic material properties
+1	isotropic infrared and optical background
+1	isothermal run
+1	isospin violation in the B→K∗γ decays
+1	isospin mixing
+1	isospin
+1	isoparametric [17] or, in general, a transfinite interpolation
+1	isomeric lepton mass matrices
+1	isolate individual pollen tubes
+1	isogeometric tearing and interconnecting method
+1	isogeometric analysis literature
+1	isobaric analogue state
+1	irreversible energy loss
+1	irreducible representation
+1	irradiance
+1	iron oxide
+1	iron ore deposit
+1	iron ore
+1	iron in iron oxides
+1	iron content
+1	ion–molecule reactions
+1	ions
+1	ionized
+1	ionic migration
+1	ionic current
+1	ion exchange capacity
+1	ion channel structures
+1	ion
+1	inviscid case
+1	investigation of fossil-orientation
+1	investigating their interior orientation
+1	investigating both perturbative and nonperturbative properties of quantum chromodynamics (QCD
+1	investigates the curricula construction, curricula design and curricula content
+1	investigate the density behavior of the symmetry energy with respect to isospin equilibration
+1	investigate the deep structure under the volcanoes
+1	investigate the BFKL and DGLAP equations in the case of supersymmetric theories
+1	investigate mathematically
+1	inversely converted method
+1	inverse perspective mapping and homography
+1	inverse modelling
+1	inverse miniemulsion
+1	inverse emulsion
+1	inverse approach
+1	inverse
+1	invariant extensions of local functionals
+1	introduction of the δ meson in the description of the iso-vector equation of state
+1	introduced in the bulk
+1	introduce vector mesons
+1	introduce some results of databases calculations
+1	introduce one of the statistical approaches to HRV
+1	introduce and analyze of semantic reasoning tools
+1	introduce a small perturbation to the neutrino mass matrix without breaking Z3 symmetry
+1	intramolecular vibrational relaxation
+1	intrachain interactions
+1	intervention analysis
+1	interruption of the protective current
+1	interrupted
+1	interpretation of 3-branes with negative tension
+1	interpolation functions
+1	internalizing targeting ligands
+1	internal-flow applications
+1	intermetallic sintering
+1	intermetallic reaction
+1	intermetallic phase
+1	intermediate organic hardmask
+1	intermediate layer material
+1	intermediate Higgs mass region
+1	interlocking light-weight blocks
+1	intergranular stress corrosion cracking
+1	interference of noise
+1	interfacial waves
+1	interfacial topology
+1	interfaces with T-joints
+1	interface problems
+1	interconnected three-dimensional network
+1	interactive interpretation of change patterns
+1	interactions on MBR
+1	interactions between H2O and the alkyl groups
+1	interaction of the leading prehadrons during the formation time
+1	interaction hardened layer
+1	interaction factor method
+1	interaction factor approach
+1	interaction between light quarks and the heavy antiquark was neglected, consistent with the heavy quark limit
+1	interact with users
+1	inter-layer metallic connections
+1	intelligent management systems
+1	integration of human mode of existence and view on culture and art
+1	integrating immersive virtual reality technologies into a three-dimensional virtual world
+1	integrated yield
+1	integrated to (4)w=−FμνaFaμν+M
+1	integrated planner problem
+1	integrals of local or non-local functions
+1	integrable classical dynamics
+1	integer sub-problem
+1	integer recourse
+1	integer cuts
+1	insulating substrates
+1	instruments
+1	installment of concrete
+1	installed array
+1	instability
+1	inspection data
+1	input variables
+1	input devices
+1	inorganic laser diodes
+1	inorganic flocculating agents
+1	inorganic additives
+1	inoculated with different level of Nb+B
+1	inoculants
+1	inner-shell spectroscopic techniques
+1	inkjet fluids
+1	inkjet fluid assessment methods
+1	ink testing
+1	injected in vivo into models and spontaneously self-assemble into nanofibers in aqueous solutions
+1	initiator/coinitiator system
+1	initiation and propagation of fatigue crack
+1	initial residual amplification
+1	initial or repeat run regression predictions
+1	initial mesh
+1	initial amplitude
+1	inhomogeneous broadening
+1	ingress
+1	inf–sup stable schemes
+1	infrared modes
+1	informs the user
+1	information”
+1	information theory concepts
+1	influence of complex social structures
+1	infinitesimal time intervals
+1	inference rules of grammar
+1	infectious disease vaccination
+1	infected
+1	inelastic strain profiles
+1	industrial processes
+1	induced strain
+1	induce T helper 1
+1	independently integrated for each symmetry
+1	increasing/decreasing the size of triangles according to the local curvature
+1	increasing the size of the simulation domain
+1	increasing the number of carbon unit cells
+1	increasing the immersiveness of 3D virtual world experience
+1	increasing suction
+1	increasing energy
+1	increasing direct solar radiation on both solar cells and water temperatures
+1	increasing degree of phase damping noise
+1	increase of the layer's thickness
+1	increase in the sub-assembly length
+1	increase in critical Reynolds numbers
+1	incorporating a second minority phase at the nano-scale
+1	incorporate uncertainties
+1	incorporate the thermodynamics of ternary alloys and liquid diffusion-governed solidification kinetics into a multiphase volume average solidification model
+1	incorporate the associated uncertainty propagation calculations.
+1	inclusive J/ψ productions
+1	incipient pores
+1	incident photon
+1	inadequately anchorage lengths
+1	in-situ measurements
+1	in-plane diffusion of oxygen ions
+1	in-medium change of the fragmentation function
+1	in the phase when the fields are rolling
+1	improving the quality of teaching and learning on sport normal students
+1	improving the managed level
+1	improving the fracture toughness of epoxy polymers
+1	improvement of proton conductivity using aromatic polymers with moderately adjusted IEC values
+1	improvement of computation efficiency
+1	improved molecular dynamics methods
+1	improve understanding of the entrainment phenomenon
+1	improve the thermal efficiency of power plant
+1	improve the software development capabilities and innovation sense of students
+1	improve the power factor and efficiency of the beam pumping unit
+1	improve the mechanical properties of the system
+1	improve the heating transfer
+1	improve radiation tolerance
+1	improve our model to describe the primary photon–nucleon reaction below the PYTHIA threshold of W⩾4 GeV
+1	implicit extrapolation
+1	implications of the results
+1	implementing a quantum search algorithm by adiabatic evolution
+1	implemented on and integrated into a visual analysis system
+1	implementation principle
+1	implement colloidal stability of the resulting inverse emulsion
+1	impinging plasma particles
+1	impedance spectroscopy
+1	immersive projection
+1	immersed finite elements
+1	immersed boundary method
+1	imaging techniques
+1	imaging
+1	imaginary part of the electric dipole moment
+1	image-processing technique
+1	image thresholding technique
+1	image the detailed 3-D velocity structure
+1	image reconstruction procedure
+1	image magnetic monopole effect
+1	image alignment
+1	image
+1	illustrate the principle, procedure and performance
+1	illustrate the formal ideas developed here by applying them to a toy model
+1	ih4〈Vμ(P∂μP−∂μPP)〉
+1	idle process
+1	identifying the disconnected components of the system
+1	identifying defect centres
+1	identify patterns among the data
+1	identify huge wave
+1	identifies new increased construction land
+1	identification of the paramagnetic E′ centre in SiO2
+1	identification of alternative fire safety design options
+1	identification
+1	iUTAH “Utah Water Survey,”
+1	i-vectors
+1	hysteresis behaviour
+1	hyperthermia
+1	hypergraph model
+1	hydroxyl functionality of HEMA with tetrafluoro propanoic acid
+1	hydrophobic non-sulfonated segments
+1	hydrophobic molecules
+1	hydrophilic sulfonated polymer segments
+1	hydrophilic and hydrophobic blocks
+1	hydrogenated
+1	hydrogen-terminated silicon substrates
+1	hydrogen silsesquioxane
+1	hydrogen line
+1	hydrogen bonding network
+1	hydrogels
+1	hydrogel scaffolds
+1	hydrogel film
+1	hybrid stars
+1	hybrid recommendation approach
+1	hybrid mesons
+1	hybrid material
+1	hybrid
+1	human collaboration
+1	huge wave
+1	how scalar fields from brane world scenarios can play a new role in spontaneous baryogenesis
+1	hot stage attachment
+1	hot pressing sintering
+1	horizontal tube furnaces
+1	horizontal cold chamber machine
+1	homogenous nucleation
+1	homogenizer
+1	holes
+1	hole injection
+1	holding furnace
+1	holders
+1	hold direct proportionality but their relationship
+1	hitting to the divertor plates
+1	histogram
+1	hip-push
+1	highly fluctuating data
+1	highlights on the impact of information technology
+1	higher solution polynomial orders
+1	higher frequencies
+1	high-throughput reactor
+1	high-resolution photographic images
+1	high-purity He
+1	high-order meshes
+1	high-order discretisation
+1	high-order coarse boundary-layer prismatic mesh
+1	high-order
+1	high-intensity laser pulses
+1	high-aspect-ratio micro geometries
+1	high-aspect ratio
+1	high velocities
+1	high temperature and high pressure conditions
+1	high symmetry may significantly simplify the structure of these equations
+1	high speed mechanical stirrer
+1	high resolution technology
+1	high resolution images
+1	high resolution FE-SEM
+1	high purity standard metals
+1	high proton conductivity
+1	high power computing
+1	high performance and Cloud computing
+1	high frequency capacitance–voltage (HF CV) measurements
+1	high energy hadronic and nuclear collisions
+1	high electric field gradient of a plasma wave
+1	high efficient dynamics modelling.
+1	high efficiency modules
+1	high dimensional model representation
+1	high density of E′ centres
+1	hierarchy-free masses implied by the Δm2's
+1	hierarchical neutrino Yukawa couplings
+1	hidden node
+1	hidden local symmetry
+1	hexamethylene diisocyanate functionality
+1	heterophase polymerizations
+1	heterogeneous polymerization process
+1	heterogeneous nucleation substrates
+1	heterogeneous and dynamic environments
+1	heterogeneity
+1	helium atoms
+1	helium
+1	heavy mesons
+1	heavy meson
+1	heavy ion collisions
+1	heavy ion
+1	heavy antiquark
+1	heating element
+1	heating coils
+1	heating
+1	heater sleeves
+1	heated to a final temperature of 900°C
+1	heat-treated powders
+1	heat-treated
+1	heat sink
+1	heat flow
+1	heat energy
+1	heat conduction
+1	heart rate variability 
+1	heart rate variability
+1	healthy volunteer
+1	head-mounted display
+1	he real part of the top-quark electric dipole moment
+1	harmonic superspace
+1	hardware structure
+1	hardmetal
+1	hardening plant
+1	hardened layer
+1	hard-spectator contribution arising from the chromomagnetic operator O8
+1	hard constraints
+1	hard (integrity) constraints
+1	hanging nodes
+1	halogen
+1	half a difference as a systematic error
+1	hadron–hadron collisions
+1	hadronization
+1	hadronic transport model
+1	hadronic phase
+1	hadron formation
+1	hadron colliders
+1	hadron collider
+1	h
+1	guiding the environmental management of reclamation
+1	growth stopped in the early stages of anodizing
+1	growth of the barrier layer by continued oxidation
+1	growth analysis under microscopic observation
+1	grow HfO2 thicknesses
+1	group data analyses
+1	ground and polished
+1	green body
+1	gray level images
+1	gray level image
+1	gray level histogram.
+1	graviton
+1	gravitipoles
+1	gravitational field
+1	graphite mould
+1	graphite
+1	graphical notation and formalization
+1	graphene-like structures
+1	graphene sheet
+1	graphene nanoribbons
+1	graph and subgraph isomorphism detection
+1	graph
+1	granulometry of the handmade concretes
+1	grain refining potency of Nb+B inoculation
+1	grain refinement
+1	grain boundaries
+1	grafting fluorinated groups
+1	graft the fluorinated groups on the copolymers with functional groups
+1	gradual filling of the pore
+1	gradient-based shape optimisation
+1	gradient changes
+1	grade blending
+1	golden alga Isochrysis galbana
+1	gold source/drain metallisation layer
+1	gluonic operators
+1	gluon radiation
+1	gluon fusion
+1	gluing stage
+1	glued trees
+1	globally shared models
+1	global analysis
+1	glasses
+1	glass
+1	give feedback to inform decisions of array layout
+1	gesture recognition
+1	geometry representations
+1	geometry and analysis representations
+1	geometrical relations
+1	geometrical optics
+1	geometric approximation
+1	geomagnetic secular variation
+1	genetic population
+1	genetic algorithm optimizer
+1	generic class of matrices
+1	generation procedure
+1	generation of value of supply chain
+1	generation of number of ROS
+1	generation of logic reasoning questions
+1	generation capacity based
+1	generating sentence reduction
+1	generating high-order meshes for high Reynolds number flows
+1	generates sentence reduction
+1	generate the catalytically active species in the ROMP
+1	generate optimal cuts of the linear sub-problem and the integer sub-problem
+1	generate non-singular cosmology without creating the instabilities
+1	generalized formulation
+1	generalized extreme value distribution
+1	generalize the one-loop partition functions,
+1	generalization of ELM
+1	generalization
+1	generalised cross correlation phase transform
+1	general-purpose algorithm
+1	general theorem
+1	general relativity
+1	general matrices
+1	general mathematical result about the free-wave solution
+1	gelation processes
+1	gelation
+1	gel network product
+1	gel
+1	gauge transformation
+1	gauge symmetry breaking
+1	gauge invariant extensions of local functionals
+1	gauge independent renormalisation
+1	gauge coupling constant
+1	gauge and supersymmetry transformations
+1	gauge D-term interactions
+1	gate G1
+1	gate
+1	gas–liquid interface
+1	gasification process
+1	gaseous carbon
+1	gas-sheared film flow
+1	gas-assisted injection moulding
+1	gas well drilling project
+1	gas superficial velocity
+1	gas phase
+1	gas inventories
+1	gas influx
+1	gas flow
+1	gas exchange
+1	gas core
+1	gas continuous flow
+1	gas circulation
+1	gas capture and storage
+1	gas atom
+1	galloping research work
+1	galloping occurrence
+1	gain statistical information
+1	fuzzy-Hammerstein model predictive control method
+1	fuzzy-Hammerstein model
+1	fuzzy neural network
+1	fuzzy decision fusion method
+1	fuzzy attribution for obstacle detection and classification application
+1	future cloud strategy
+1	fusion power plant
+1	fusion of plain epistemic states
+1	fusing cognition with emotion
+1	further refinement of the Conrad et al. method
+1	further ionization
+1	furnaces
+1	fundamental physical phenomena
+1	functional which is local in a particular gauge
+1	functional
+1	function of applied strain
+1	function of 4-index field strength
+1	fully-ionised plasmas
+1	fully discrete scheme
+1	fullerene
+1	full-atomistic approaches
+1	full diffusion-governed solidification kinetics
+1	full Salpeter equation
+1	fuel rods
+1	fuel pellets
+1	fuel matrix
+1	fuel cladding
+1	fuel cell electrode microstructure
+1	fuel assemblies
+1	friction with the main ions
+1	friction between different layers of a medium
+1	friction
+1	frequency-domain Volterra system identification
+1	frequency sweeps
+1	frequency of huge waves
+1	frequency components
+1	frequencies
+1	freezing
+1	free-surface flows
+1	free energy functional
+1	free Maxwell field
+1	framework of full Salpeter equation
+1	framework for the retrieving of parameters from outage data
+1	framed’ cell
+1	fragmentation of DCPD to CPD
+1	fragmentation functions
+1	fragmentation function
+1	fracture toughness
+1	fractional values of the fermionic charge
+1	fractional momentum of the vector meson carried by one of the two partons
+1	four-terminal method
+1	four-dimensional effective theory
+1	four-charm–quark processes
+1	foundry
+1	fossil-elements
+1	fossil mass occurrences
+1	fossil mass occurrence
+1	formulation of partial differential equations
+1	formulating anionic nanocomplexes
+1	formulate measures and methods of fitness
+1	forming gas
+1	formidable multiscale problem
+1	formation of the same type of regioisomers
+1	formation of nanometre size hollow protrusion on the nanotube sidewall
+1	formation of ion channel structures
+1	formation of fullerene
+1	formation of a large hole in graphene sheet from a single vacancy defect
+1	formation energy
+1	form cracks
+1	forecasting lightning
+1	force field and solvent model
+1	follow the same procedure to derive the metric
+1	fold surface
+1	focused ion beam
+1	flux reconstruction
+1	flux of cosmogenic neutrinos
+1	flux monitor set
+1	flux monitor
+1	flux gate magnetometer
+1	fluorite materials
+1	fluorinated acrylic copolymers
+1	fluid–structure interaction problems
+1	fluid–structure interaction problem
+1	fluidized bed
+1	fluid-phase equilibria
+1	fluid mixtures
+1	fluid mechanics
+1	fluid flow
+1	fluid dynamics
+1	fluences
+1	fluence of each capsule
+1	fluence
+1	fluctuations of yield
+1	fluctuating vacuum
+1	flows involving suspended particles
+1	flow-induced central scission
+1	flow-control mechanism
+1	flow structure within the liquid films
+1	flow of a rarefied gas
+1	flow equations
+1	flow
+1	flight control simulation
+1	flexi-wall
+1	flavour–spin interaction
+1	flash-evaporated TPGDA monomer vapour
+1	fixed by the superconformal invariance 
+1	fixed by the experimental yields on (multi-)strange baryons
+1	five dimensions
+1	fitting methods
+1	fission and gamma absorption
+1	fission
+1	first-stage realization
+1	first order time-derivative
+1	first order tetrahedra
+1	first order hexahedral elements
+1	first best benchmark
+1	fire-resistant blocks
+1	fire development
+1	finite-time, future (sudden or Big Rip type) singularities
+1	finite-element methods
+1	finite element weak formulation
+1	finite element methods
+1	finite element computation
+1	finite element
+1	finite difference scheme
+1	finite difference method
+1	finite difference discretization of the Caputo fractional derivatives
+1	fine grain structure
+1	finds the mutually-uncorrelated vectors
+1	find the decay vertices
+1	find evidence for states with constituent gluons
+1	financial time series
+1	financial systemic risk early-warning index system
+1	financial systemic risk best predict equation
+1	financial stress index
+1	final-state particle
+1	final particles
+1	film-substrate couple
+1	film thickness measurements
+1	film flow
+1	fields have relaxed to their vacuum values
+1	field-dependent charge mobility measurements
+1	field-assisted flow of alumina
+1	field validation
+1	field theory of magnetic monopoles
+1	field strength is zero
+1	field of clusters and nano structures
+1	field measurements of local film thickness
+1	field emission 74 scanning electron microscope
+1	field emission
+1	field data
+1	fibrinogen molecules
+1	fibrin gels
+1	fibrin gel
+1	fibrin clot
+1	ferromagnetism
+1	ferromagnetic steels
+1	ferromagnetic inclusions
+1	ferromagnetic
+1	ferrite
+1	fermions
+1	fermionic zero-energy modes trapped on such solutions
+1	feed-forward networks with a single hidden layer of nodes
+1	feature extraction strategy
+1	feature extraction methods
+1	feature extraction
+1	feasibilities
+1	fault diagnosis of rolling bearing
+1	fault diagnosis
+1	fault correlation factor analysis
+1	fatigue problems
+1	fast multipole method
+1	fast marching method
+1	fast marching
+1	fast BEM in shape optimisation
+1	familiarity with water cost
+1	false vacuum
+1	failure fuel pressure characteristics were analyzed
+1	fading
+1	factors on promoting the level of teaching and learning
+1	factorization proof for observables containing subleading-twist transverse-momentum dependent functions
+1	factorisation approach using MLLR speaker transforms
+1	factorial screening
+1	fabrication technique
+1	fabrication process
+1	fabrication of soft polymer pillars
+1	fabrication and microstructural characterisation of ODS steels processed by SPS
+1	fabricated upon reaction sintering
+1	fabricate microfluidic structures
+1	fabricate
+1	eye movement measurement methods
+1	eye movement measurement
+1	extremely low Mach numbers and weak temperature gradients
+1	extrapolation of the upwind value
+1	extraction of layer thickness
+1	extract fault information
+1	extra-component of the bulk-vector
+1	external circuits
+1	extensive tests
+1	extensive numerical examples
+1	extensive investigation on the efficiency of the aquarium chemical reaction
+1	extension to the equations of poroelasticity
+1	extension to the charmed analogue Θc(3099)
+1	extension
+1	extended version of the graph-based unsupervised Word Sense Disambiguation algorithm
+1	extended to consider the back diffusion into the solid
+1	extended technicolor
+1	extended algorithm
+1	extended
+1	extend this methodology in practice
+1	extend the application of single-lens stereovision system
+1	extend the McVittie's solution into charged black holes
+1	extend the ART model to include perturbatively the Ξ particle
+1	extend from the film surface
+1	express the relationship
+1	express the hadronic matrix elements in the schematic form:
+1	exposure
+1	exposed to H2/H218O atmosphere
+1	exponential relationships
+1	exponential relationship
+1	exploring dynamic microstructural change
+1	explore the health status
+1	explore the factors behide climate changes
+1	exploration of the microstructure of working electrodes
+1	explicit correlations
+1	explanation of the deposited human cultural spirit
+1	explaining the optical and electronic properties of SiO2 in the presence of E′ centres
+1	explaining many experimental observations
+1	expert system
+1	expert interviews
+1	experiments on plant reproduction
+1	experimentally observed values
+1	experimental studies
+1	experimental measurements
+1	experimental data from hadron–hadron collisions
+1	expedient parametric studies
+1	expectation-maximization algorithm
+1	expectation value
+1	expansion of the cell population in vivo
+1	expansion of computer-based climate simulations
+1	expansion from standard EMD to multivariate EMD
+1	expansion coefficients
+1	expanding liquid mixture
+1	exothermic reaction
+1	existing sound walls
+1	existing sound wall
+1	exhaustive treatment of the contributions of T-odd distribution functions
+1	exhaust gas
+1	exercise of scientific fitness
+1	execution of HPC applications in Cloud
+1	exclusive J/ψ and charmonium productions
+1	excited state calculations
+1	excited neutral kaon
+1	excited levels
+1	excessive network expansion
+1	excessive marketing
+1	excess entropy of mixing
+1	excess enthalpy and excess entropy of mixing
+1	excess configurational entropy
+1	example of such singularity
+1	examine, if the formation times of mesons and antibaryons are about equal
+1	examine the predictions of these lepton mass matrices
+1	exact measurement of properties
+1	exact geometry representation
+1	evolution to singularity
+1	evolution of a network of collaborative documents along with a social network of collaborators
+1	evolution equations for the matrix elements of quasi-partonic operators in the multicolor limit Nc→∞
+1	evoking ideas of parsimony
+1	evidence from past frames
+1	events were simulated
+1	evaporate any native oxide
+1	evaluation of their sensing profiles in the copolymers
+1	evaluated transverse-momentum dependencies
+1	evaluated three spin-on carbon hardmasks from Irresistible Materials
+1	evaluate the pupil location method
+1	evacuation training and drills
+1	europium complexes
+1	ethyl dimethylamino benzoate units
+1	ethyl acetate
+1	etching equipment
+1	etching
+1	etched diamond nanopillars
+1	etch mask
+1	etch chamber
+1	estimation of this sensitivity
+1	estimation of the vanishing point
+1	estimated upstream W fluxes
+1	estimated homography
+1	estimate the final resulting quality
+1	estimate accurately the gradients of the failure events
+1	estimate a cost function gradien
+1	establish the financial systemic risk best predict equation
+1	establish practical modelling for the gas exchange between air and water
+1	establish a time series model
+1	error correcting codes can be constructed
+1	equivalent pier and raft methods
+1	equilibrium model
+1	equidistant, rectilinear meshes
+1	equation of motion
+1	equally sized blocks
+1	equal time Hamiltonian
+1	equal parts
+1	epoxies
+1	environmental management of reclamation
+1	environmental carrying capacity
+1	environmental and industrial processes
+1	enumeration of the conditional sample space
+1	entrainment of gas
+1	enthalpy increments
+1	enthalpic data
+1	enthalpic and chemical potential data
+1	enter an input sample dynamically
+1	enriched in plutonium dioxide
+1	enlarged sodium plenum
+1	enhancing the performance
+1	enhancing the mechanical properties
+1	enhances the surface resistance
+1	enhancements in corrosion performance
+1	enhanced tracer incorporation
+1	enhanced heterogeneous nucleation
+1	enhance the mood
+1	engineering components
+1	enforce inter-element solution continuity
+1	energy yield model
+1	energy saving
+1	energy dissipation mechanisms
+1	energy consuming, anisotropic, non-Newtonian fluid
+1	energy conservation
+1	energy based fees
+1	energy and momentum-conserving temporal discretization scheme
+1	energy and momentum conserving algorithm
+1	energetic atoms travel deep into the lattice through channels of low atomic density
+1	encapsulation material
+1	encapsulation
+1	emulsion
+1	employ inflow/outflow boundary conditions
+1	empirical pair potentials
+1	empirical convergence rates
+1	emission of protons at 0° in the k region from 0.4 to 0.8 GeV/c
+1	emission mechanism
+1	embossing a sacrificial layer
+1	embodies a set of well known metaheuristics with different configurations
+1	elution behavior
+1	elliptic flow pattern
+1	elliptic flow
+1	elimination of the time and space constraints
+1	elimination of large tumor burdens
+1	eleven-dimensional theory
+1	elevated pH
+1	element types
+1	electrostatic field analysis
+1	electroreduction
+1	electrons damp the wave
+1	electronic transport properties
+1	electronic transitions to the quartet state
+1	electronic structure calculations
+1	electronic structure and stability
+1	electronic relaxation timescale
+1	electron trapping centres
+1	electron transfer
+1	electron beam raster and overlap pattern.
+1	electron beam melted samples
+1	electrometer current
+1	electromagnetism
+1	electromagnetic” field
+1	electromagnetic field gradient
+1	electrolyte
+1	electrodes
+1	electrochemical reduction of uranium dioxide
+1	electrochemical experiments
+1	electrochemical
+1	electrically pumped lasing
+1	electrically pumped lasers
+1	electrically and thermally conductive graphite mould and a large DC pulsed current (1000–5000A) is applied under a uniaxial pressure
+1	electrical transport tracing
+1	electrical conductivity
+1	electric charge
+1	elderly people
+1	elderly fitness training
+1	elastin-mimetic di-block copolymer
+1	elastic principle of superposition of effects
+1	elastic and inelastic collisions
+1	elastic analysis
+1	elaborates on the theoretical effectiveness of the proposed method based on the multivariate EMD
+1	ejected
+1	eight measurements
+1	efficiency of robot dynamics
+1	effectiveness
+1	effective spacetime dimension
+1	effective shading sub-model
+1	effective proton conduction
+1	effective pattern transfer
+1	effective nuclear force
+1	effective monitoring
+1	educational platform
+1	educational administration
+1	education policy
+1	edge reconstruction
+1	each quark feels a scalar potential, −Vsq, and a vector potential, Vvq
+1	each agent is implementing a different metaheuristic/local search combination
+1	e-supply chain
+1	e-procurement technology
+1	e-learning
+1	e-beam assisted self-assembly
+1	e+p→e′+jet+X
+1	e+p→e′+h+X
+1	e+e− polarization
+1	e+e− option
+1	e+e−
+1	e development of cancer therapy
+1	dynamics which clearly reveal the origins of the roaming effect
+1	dynamics described with screws
+1	dynamical vector mesons
+1	dynamical studies
+1	dynamical expressions
+1	dynamic light scattering
+1	dynamic aggregation of models
+1	ductsand hot air receiving chambers
+1	dual beam FEI Nova Nanolab 600
+1	drying ofmatchets
+1	dry 1,6-hexanediamine
+1	drum
+1	droplets
+1	drop detector
+1	doxorubicin
+1	downwards annular flows
+1	downwards annular flow
+1	double exchange mechanism
+1	doping
+1	domestic system
+1	does not use pre-formed catalyst particles
+1	document clustering task
+1	do not introduce these spurious oscillations
+1	divide the load
+1	divertor plates
+1	divertor plasma
+1	distribution
+1	distributed simulation
+1	distorted hydrogen bonds
+1	distorted and interconnected
+1	distinct dynamics of the neutrals
+1	distance function
+1	distance between data values
+1	dissolved oxygen
+1	dissipation
+1	displacement cascade
+1	dispersion of ultra-fine oxide particles throughout the matrix
+1	dispersion forces
+1	dispersion and diffusion eigencurves
+1	dispersion
+1	dispersed media
+1	disordered alloy
+1	dislocation loops
+1	disintegration of the fuel rods
+1	disentangling the observed spectra
+1	discussing and analyzing the importance of hip-push applied in walking race
+1	discusses the potential advantages
+1	discussed their thermodynamical properties
+1	discussed and analyzed
+1	discuss the regularity properties of the test functions
+1	discuss the reasons of appearing the lettered words
+1	discuss the cardio-respiratory interaction
+1	discretized volume elements
+1	discretized function space
+1	discretization of the advection–diffusion equation
+1	discovery of socially coherent teams
+1	discontinuous performance function associated with the failure probability
+1	discontinuous Galerkin
+1	disambiguation
+1	directly optimising
+1	direction region
+1	direct-dynamic methods
+1	direct structural probe of water
+1	direct solar radiation intensity
+1	direct simulation Monte Carlo method
+1	direct simulation Monte Carlo
+1	direct combinatorial solid state synthesis
+1	direct bent or tensile tests
+1	diminish ROS
+1	dimensionality reduction
+1	dimensional reductions
+1	dilution effect
+1	dilution
+1	digraphs are strongly connected
+1	digraph
+1	digital library
+1	difunctional crosslinkers
+1	diffusion–adsorption model
+1	diffusion of oxygen
+1	different roles are clarified
+1	different numbers of modules of the string are short-circuited
+1	difference in the slope parameters
+1	differ by small amounts
+1	diesel engine PT pump
+1	diesel engine PT fuel system
+1	dielectric maps
+1	diamond polishes
+1	diagonal and transition magnetic and electric dipole moments of charged leptons
+1	diagnose the diesel engine PT fuel system
+1	diabatisation scheme
+1	diabatisation
+1	diabatic potential energy surfaces and couplings
+1	di-interstitial with the fourth Oi site occupied
+1	di-interstitial
+1	de Sitter or anti-de Sitter symmetry
+1	device components
+1	develops and examines a simplified approach
+1	development of radiation-induced DSBs
+1	development of low-carbon economy
+1	development of fuel assemblies
+1	development of electrically pumped lasers
+1	development of economy and culture
+1	development of coatings and pre-oxidation techniques
+1	development of and research on P91 steels
+1	developing richer theoretical models for single or multiple particle impact
+1	developing a reasonable policy
+1	develop analytical approaches
+1	develop accident tolerant fuels
+1	develop a reliable model of both the free proton and the binding of nucleons starting from the quark level
+1	develop a new tool to implement the theoretical of automating select test case
+1	deuteron momentum
+1	deuterium
+1	deuterated
+1	deterministic 
+1	deterministic, decomposable negation normal form
+1	determining treatment efficacy
+1	determining the activation of each wire piece
+1	determined and decomposed over time
+1	determine σlead
+1	determine the project time and cost
+1	determine the parity
+1	determine the oxidation kinetics
+1	determine the lowest energy configuration
+1	determine the characteristic of the holding furnace
+1	determination of the excess configurational entropy
+1	determination of location of spallation/delamination
+1	deteriorated convergence
+1	detector sensitivity
+1	detector
+1	detection principle of ferromagnetic impurities
+1	detection of the GP
+1	detecting the location of, say, one missing level on an otherwise complete sequence
+1	detecting one missing level
+1	detecting natural phenomena.
+1	detecting
+1	detected
+1	detect the diesel engine PT fuel system state
+1	detect entrained droplets
+1	detailed design
+1	detail the spectra for different particle species (π±,K±,p,p̄)
+1	designing services
+1	design tools
+1	design tool
+1	design solutions
+1	design of other text-based services
+1	design of mobile-friendly unique identifiers
+1	design of high quality real-time rotation face detection architecture for gesture recognition of smart TV
+1	design of a varnish plant
+1	design of a service
+1	design methods
+1	description of the dataset
+1	description of the alkane-rich phases
+1	description model
+1	description mode of object-orientation-based direction relation in three-dimensional space is proposed
+1	description mode
+1	describing a bound state
+1	describe the longitudinal beam and target spin asymmetries
+1	describe the experimental data of the HERMES Collaboration for hadron attenuation on nuclei
+1	describe either the radius or the number of nearest neighbours for a density estimate
+1	describe dynamic problems
+1	derived a direct proportionality
+1	derive additional conditions which guarantee the regularity of the test functions
+1	derivation of the semi-discrete advection–diffusion problem
+1	depositional interpretations
+1	deposited on top and beneath the MIEC layer
+1	deposit constituents
+1	depolarization of the galvanic system
+1	deploying on-demand, small sized HPC applications
+1	density waves
+1	density estimate bandwidth1Bandwidth
+1	densely packed particles
+1	dense state
+1	dense packing
+1	dense linear boundary-layer mesh
+1	demonstrate the performance of the proposed IETI method
+1	demonstrate that they are indeed the predicted super-partners
+1	demonstrate a specific type of defect
+1	demographic attributes
+1	delocalisation of Fe electrons
+1	deliver experimental data
+1	delaminate
+1	degradation
+1	degenerate neutrinos
+1	degenerate Majorana neutrinos
+1	deformed supersymmtery transformation
+1	deformed supersymmetry
+1	deformation vector is computed
+1	deformation vector
+1	deformation structure
+1	deformation parameters
+1	deformation parameter
+1	deformation
+1	deform locally
+1	defined rotation of the octyl chains
+1	defense simulation platform
+1	defects when existing methods about access control and recommendation are deployed in KMS are analyzed
+1	defects
+1	defect trap sites
+1	defect migration pathways
+1	default setting
+1	deep water
+1	deep seismic images
+1	deep neural networks
+1	deep electron traps
+1	deep development and training of walking race
+1	deduce the metric for a Reissner–Nordström black hole in the expanding universe
+1	deduce the electrochemical reduction potential, mechanism and reduction pathway
+1	decrease the mechanical stability
+1	decrease in amplification rates
+1	decomposition
+1	decision problem
+1	decision diagrams
+1	decay to ψKsπ0
+1	decay to the final state
+1	decay pairs
+1	decay constants
+1	decay channels
+1	decay
+1	decarburisation
+1	decanting
+1	deal with a variety of different problem domains
+1	deactivation
+1	de-bonding
+1	database collections
+1	data-driven nonlinear models
+1	data-centric Web applications
+1	data taken from JANAF tables
+1	data readily available on unstructured meshes
+1	data processing
+1	data and essays
+1	data analysis
+1	damp abrasive disc
+1	d>4
+1	d-luciferin
+1	d-DNNF
+1	cytotoxicity
+1	cylindrical voids
+1	cylindrical sample
+1	cyclic voltammograms
+1	cyanocobalamin
+1	cutting edge astrophysical observations
+1	cutter location surface
+1	custom-made jig
+1	curve fitting Levenberg–Marquardt algorithm
+1	curvature-dependent polygonization
+1	curvature and the slope of cutter location surface
+1	curse of dimensionality
+1	curriculum design
+1	curricula design
+1	current–voltage characteristics
+1	current model
+1	current load
+1	current extensions of all 168 Gepner models
+1	current data
+1	current collector
+1	current
+1	currency credit variable
+1	curing
+1	cures
+1	cumulative averaging technique
+1	culture change
+1	cuboctahedral
+1	crystals
+1	crystal stoichiometry
+1	crystal melting
+1	crude product
+1	crosslinked microgels
+1	crosses the inner horizon of the bulk geometry
+1	crosscap state approach
+1	cross-sectional STEM data
+1	cross-overs in the approximate global free energy
+1	cross-linked branching networks
+1	cross-linked
+1	critical-gel
+1	critical micellar concentration
+1	critical load bearing engineering structures
+1	creation of vacancies in small graphene flake
+1	creating optimized learning data
+1	creating and introducing intelligent management systems
+1	create more uniform particle distributions
+1	create a galloping database
+1	cracks
+1	crack-band approach
+1	crack spacing evolution
+1	crack generation and propagation
+1	covalently bound eosin
+1	covalent incorporation of optical sensor moieties into a polymer matrix
+1	coupling αγ2
+1	coupling of the subdomains along interfaces
+1	coupled together
+1	coupled system of RTEs
+1	coupled problem of consolidation of geomaterials
+1	coupled plasma
+1	coupled cluster hierarchy
+1	couple a set of quadrature points with an equal number of nodal Lagrange polynomials
+1	counter electrode
+1	costly manufacturing methods
+1	cost function
+1	cost
+1	cosmology
+1	cosmological evolution of UHECR injection
+1	cosmological evolution
+1	cortical cytoskeleton flows
+1	cortical bone
+1	corrosion process
+1	corrosion kinetics
+1	corrosion
+1	corresponds to a linear relation
+1	corresponding Lie algebra has no non-trivial ideals
+1	correlations in a sequence
+1	correlated response methods
+1	correction linear
+1	corrected
+1	correct algebraic decay
+1	corpus-derived Measure of Semantic Relatedness
+1	core–shell rubber particles
+1	core micro region
+1	core measurement precision
+1	core design modifications that optimised the total sodium void reactivity
+1	core
+1	copper–copper particle
+1	copper-zinc alloys
+1	copper ECD process prediction
+1	copolymers containing complicated fluorinated groups
+1	copolymerization
+1	copolymer
+1	coordination problem of agricultural products supply chain
+1	coordination problem
+1	coordination
+1	convert the dielectric values to air void values
+1	convergence rates
+1	convergence of the WTE calculations
+1	convergence
+1	conventional methods
+1	conventional manufacturing methods
+1	conventional electron beam lithography
+1	conventional continuum fluid dynamics
+1	convective instability
+1	convection
+1	controlling the product yield of C5H6+
+1	controlling the avatar
+1	controlled electrical injection of charges
+1	controllable size reduction with high resolution towards the observation of size- and quantum effects
+1	control-flow constraints
+1	control rod drive mechanisms
+1	control of QD occupations
+1	control method
+1	contribution of the iso-vector
+1	contribution from the J/ψ-glueball associated production 
+1	contribution from a very light scalar boson
+1	contractor selection problem
+1	continuum-fluid one
+1	continuum space-time
+1	continuum random phase approximation
+1	continuum problems
+1	continuum micromechanics representation
+1	continuum hydrodynamic description
+1	continuous stirred-tank reactor
+1	continuous function
+1	continuous distribution of relaxations
+1	continuous deformation gradients
+1	continuous asynchronous
+1	continuous and discontinuous parts
+1	contacting tip
+1	contacting electrodes
+1	contacting and de-contacting of different microelectrodes
+1	contact and collision problems
+1	construction of an effective Hamiltonian including the gauge degrees of freedom explicitly
+1	construction of a suitable preconditioner for the iterative linear solver
+1	construction of 3D superconducting nanodevices
+1	constructing supersymmetric Gepner model orientifolds
+1	constructed the Born–Infeld black holes in the presence of a cosmological constant
+1	construct the virtual network topology
+1	construct the most general solutions
+1	construct questions that are solvable with unique solutions
+1	construct fusion rules
+1	constraining the velocity
+1	constrained region
+1	constrained mechanical system
+1	constitutive equations
+1	constitutive equation
+1	constituents that are not forming volatiles with the reactive gas
+1	constituent-quark picture
+1	constituent quark models
+1	constituent quark model
+1	constituent elements
+1	constant supply of hot air into the air chambers
+1	constant load
+1	consolidation
+1	consider several important classes of singularities of NURBS parameterizations
+1	conservation schemes
+1	conservation of the quantum non-local charges
+1	conservation of the P-parity
+1	consecutive layer deposition
+1	conquer this dilemma
+1	conjectures
+1	confront those six-zero textures of lepton mass matrices
+1	conformal (walking) behavior of the technicolor theory
+1	confining part
+1	confidentiality, integrity, reliability and consistency
+1	conductivity
+1	conduction mechanism
+1	condensed matter systems
+1	concrete cover
+1	concrete baryogenesis models
+1	concrete
+1	concern about a range of water and non-water issues
+1	conceptual methodology to control liquid state
+1	computing time in explicit analysis
+1	computing distances
+1	computer-based climate simulations
+1	computer vision
+1	computer simulations
+1	computer science and information system engineering
+1	computational duration
+1	computational domain as a collection of several NURBS geometries
+1	computational domain
+1	computational aerodynamics
+1	computation of distribution network components reliability parameters
+1	compression testing
+1	compression or expansion of a medium
+1	compressed wall micro-element solution
+1	compounds
+1	compound
+1	composition quantities
+1	composition operators
+1	composite
+1	composing multiple small-sized MMPPs or MAPs
+1	component reliability parameters
+1	component fields
+1	complimentary probe
+1	complicated computational cell
+1	complexity nlogn
+1	complex molecules
+1	complex geometries
+1	complex etch processes
+1	complex Grassmannians SU(N)/SU(n)×SU(N−n)×U(1) for N>n>1
+1	complex GO methodology models
+1	complete thermalization
+1	complete survey instrument
+1	complementary network of hydrophobic non-sulfonated segments
+1	comparisons with experiments
+1	comparisons
+1	comparison of the part to its design model
+1	comparison of the data
+1	comparison between the realistic calculations for positive parity [12] and negative parity [14], based on the same quark model [15]
+1	compared with the SCImago Journal Score
+1	compared to the value of its nearest neighbors
+1	compare the performance of the different compositions across tasks
+1	compare the measured cross section with the SM result
+1	compare just the constant static trees
+1	compare difference of probability
+1	compare and contrast
+1	compare and assess
+1	compaction process
+1	compactified space
+1	communication
+1	communicate
+1	common algorithms employed
+1	commercially available software for data processing
+1	commercial silicone dielectric gel
+1	combining window query and time-varying data mining techniques
+1	combining successive results and averaging
+1	combining quantum features
+1	combining multiresolution subdivision surfaces
+1	combined systems
+1	combined MD and VASP calculations
+1	combine the linguistic with the ecology
+1	combine the evidence from past frames
+1	combination of several algorithms
+1	columns
+1	colour–spin interaction
+1	color-octet mechanism in NRQCD
+1	color singlets
+1	color neutral quark matter
+1	color extraction.
+1	color charge
+1	colloidal particles
+1	collocation methods
+1	collocation method
+1	collocation formulation, especially given the presence of a diagonal mass matrix
+1	collisional plasmas
+1	collision cascade
+1	collinear suppression at the end-point region of the J/ψ momentum
+1	collection of interacting particles
+1	collect systematically and completely
+1	collagen-mimetic PAs
+1	collaboration processes
+1	coercivity, remanence and magnetic anisotropy of the nanocomposite
+1	coefficients of non-renormalizable terms
+1	coefficients
+1	coatings
+1	coarse-graining of the system
+1	coarse-grained models
+1	coarse high-order prisms
+1	coarse curvilinear mesh
+1	coalescence approach
+1	coal char
+1	co-simulation
+1	clusters
+1	clustering
+1	cloud theory
+1	cloud computing security
+1	clone TISO
+1	clone PP-07
+1	clinical testing
+1	clinical studies
+1	cleaning
+1	cleaned in ultra high vacuum
+1	classical solid–liquid transition
+1	classical search algorithm
+1	classical regime
+1	classical random walks
+1	classical random walk search
+1	classical IBM kernels
+1	classic penalty/weakly penalized
+1	class of steels
+1	class of graphs
+1	class of elements
+1	cladding
+1	circular pillars
+1	circular gold contacts
+1	circuits
+1	circuit fabrication
+1	churn flow
+1	churn
+1	choice of algorithm
+1	chloroplasts
+1	chloroform
+1	chiral soliton
+1	chimneys
+1	chemosensing
+1	chemicals
+1	chemical vapour deposition
+1	chemical vapor deposition
+1	chemical products
+1	chemical potential data
+1	chemical kinetics equipment
+1	chemical dissolution
+1	chemical analysis
+1	check for quadratic curvature
+1	charmonium production
+1	charmed hadrons
+1	charm-quark reinteractions
+1	charm-quark propagator
+1	charm-quark distributions
+1	charm reinteractions
+1	charm quark mass has to be kept finite in the OPE
+1	charged-lepton mass matrix
+1	charged polaron
+1	charged lepton sectors
+1	charged lepton mixing angles
+1	charged lepton electric dipole moments
+1	charged lepton
+1	charged holes
+1	charged black holes
+1	charged black hole
+1	charge density
+1	charge asymmetry
+1	charge
+1	characterize AM parts
+1	characterization of surface roughness
+1	characteristic of holding furnace
+1	characterisation of the cyclic behaviour of the material
+1	chaotic motion in nuclear systems
+1	chaotic motion
+1	chaos in nuclear mass errors
+1	channelling events
+1	channel height
+1	changing the thyristor trigger angle
+1	changing the Bi/Sb composition ratio
+1	changes to the quark and antiquark distributions of a bound proton
+1	change the voltage
+1	change the contacted electrode
+1	chain folds
+1	ceramic films
+1	centrifugation
+1	central terthiophene units
+1	central heavy-ion reactions
+1	cell-bound particles
+1	cell parameters
+1	cell electrical conversion
+1	cell division
+1	cell
+1	cavitations
+1	cathodic protection of the piers
+1	catalysts
+1	casting process simulations
+1	casting process
+1	casting of prepolymer against a master and generating a replica of the master in PDMS
+1	cast Al alloy
+1	case studies
+1	cascade event
+1	carrying the fractional value of the fermionic charge
+1	carry out the research of galloping information,
+1	cardio-respiratory interaction
+1	cardiac problem
+1	carbon nanotubes and silica nanoparticles
+1	carbon based materials
+1	carbon atoms
+1	capturing the (e.g., vertical) displacements of any general pile group
+1	capacitance–voltage analysis
+1	cancer immunotherapy
+1	can form a cluster
+1	calorimetric measurements
+1	calibration scan
+1	calibration
+1	calibrate the involved model parameters
+1	calibrate
+1	calculations within the framework of light-front dynamics with Karmanov's deuteron wave function
+1	calculations using the 1/N expansion
+1	calculation of phase shifts
+1	calculation by Martinez-Pinedo et al.
+1	calculation
+1	calculating upper limits
+1	calculating the eigenmodes
+1	calculating scientific impact of journals
+1	calculated by genetic algorithm
+1	calculate the system reliability
+1	calculate the properties of nuclear matter as well as finite nuclei
+1	calculate the average kinetic energy
+1	calculate the Journal Influence Score
+1	calculate high energy scattering
+1	calculate hedonic price indices
+1	calculate an upper limit
+1	calculate a new model
+1	calcite
+1	calcination
+1	c1=−1, c2=−1
+1	butyl methacrylate-co-hydroxyehtyl acrylate-co-ethyl acrylate
+1	butanol
+1	bulk-scalar
+1	bulk samples
+1	bulk polymerization
+1	bulk Higgs model
+1	built on the basis of the text words and a large wordne
+1	build direction
+1	build a model of the smallest thicknesses
+1	buckling
+1	bubble enlargement
+1	broadband interfacial waves
+1	broadband connection
+1	brittle film
+1	bring both approaches on equal footing
+1	bricks-and-mortar libraries
+1	brass
+1	braneworld
+1	brane world scenarios
+1	brane world models
+1	brane world cosmology
+1	brane system
+1	branch of linguistic
+1	box
+1	boundary condition
+1	bottom up analysis hypergraph model
+1	boron layer
+1	bonding components
+1	bonded surfaces
+1	body-centred-cubic
+1	blooming
+1	blood clot
+1	block
+1	black hole
+1	biosensing
+1	biopolymer gel
+1	biomimetic materials
+1	biomedical applications
+1	biological morphogenesis
+1	biochemical and mechanical conditions
+1	binary reaction
+1	binary collision approximation
+1	binary chalcogenides
+1	bin
+1	bimodal basal pole distribution
+1	biexponential decay components
+1	biaxial compressive and triaxial tensile stress states
+1	bi-large lepton mixing
+1	better availability and high confidentiality
+1	beta-equilibrated electrically
+1	best prediction equations
+1	best likelihood short sentence
+1	best fit decay constants
+1	bespoke and adaptive keyboards
+1	beryllium co-deposits
+1	bent conformation
+1	benchmark for how theories of gravity should be evaluated
+1	belief sets
+1	belief revision and merging
+1	behaviors of the potential
+1	before and after dipping
+1	bearing monitoring
+1	beamwidth
+1	beams
+1	beamforming performance
+1	beamforming
+1	beam pumping
+1	bcc lattice
+1	bcc
+1	bb,X⁎
+1	bb
+1	basic process of fire risk analysis
+1	base period regression model
+1	base
+1	barrier region
+1	balance between potential energy and well entropy
+1	balance
+1	baking
+1	bag-model nucleon
+1	background solution
+1	background estimates
+1	background estimate
+1	back reaction of conformal quantum fields near singularity
+1	back diffusion
+1	bX(λ)
+1	a posteriori error estimation
+1	a posteriori error analysis
+1	axial symmetry in the two-dimensional internal space,
+1	axial reflector
+1	awn-watering behaviors
+1	avoids stability issues
+1	average porosity
+1	average fire risk
+1	autonomous systems
+1	autonomic learning
+1	automotives
+1	automation of procedures
+1	automating select test case
+1	automatic pressure control
+1	automated polishing
+1	autocorrelation
+1	auto-adapted algorithm
+1	austenite
+1	augmented cell mediated immune response
+1	audio position estimation
+1	atomic orbital coefficients
+1	atomic natural orbital
+1	atomic level changes
+1	atomic layer deposition
+1	atomic bonding information
+1	atom probe tomography
+1	atmospheric neutrino mass splitting while keeping the maximal mixing between νμ and ντ
+1	asymptotic conditions to derive the Schwarzschild metric
+1	asymmetry distributions
+1	asymmetrically heated measurement set-up
+1	asymmetrical heating
+1	assume that frames are independent and multiply the posterior estimates of the last layer
+1	associated topological conservation laws
+1	associated relationship of procedure vocabularies
+1	associated potential function
+1	associated codebook
+1	assignment of half-integer fermion number to the solitonic states
+1	asset price variable
+1	assessment of the reliability sensitivity with respect to the variables that define the maintenance scheduling
+1	assessment of the corrosion condition
+1	assess the long-term benefits
+1	assembly engines
+1	assay pollen tube growth,
+1	assay pollen tube growth
+1	aspects of fire risk analysis
+1	as-deposited wire
+1	artificial equation of state
+1	arterial blood flow
+1	aromatic polymers
+1	argon gas
+1	argon
+1	areas
+1	aqueous pH
+1	aqueous mixtures
+1	aquarium chemical reaction
+1	apps
+1	approximating
+1	approximately locate
+1	approximate the solution
+1	appropriateness of analysis models
+1	appropriate modeling
+1	approach to measure its performance and diagnosis potential drawbacks
+1	approach
+1	applying the algorithm to PRS
+1	applying tensile stress
+1	applying previously calculated pure price changes
+1	applying EIS and IEDP to one and the same La0.6Sr0.4CoO3−δ (LSC) thin film
+1	applied the asymptotic conditions to derive the Schwarzschild metric in the expanding universe
+1	applied tensile stresses
+1	applied bias
+1	applications to concrete baryogenesis models
+1	applications to bearing monitoring
+1	applications for this mechanism
+1	application of several harmonic frequencies
+1	application of methodology of research
+1	application of database
+1	apparent insolation level
+1	antiproton
+1	antiholomorphic scalar field
+1	antigen-presenting cells
+1	antibaryons
+1	anti-squarks
+1	antennas
+1	ansatz functions
+1	anomaly detection
+1	anomalous dimensions obtained from universal anomalous dimensions γuni(j) by shifting its arguments by an integer number
+1	anomalous dimension matrix
+1	anomalous dimension matrices for twist-2 operators
+1	anodizing
+1	anodic current
+1	anodic alumina films
+1	annular downward flow
+1	annotation of form and the reflection of its symbolic meaning
+1	annealed in forming gas
+1	anisotropic material properties
+1	anisotropic elastic and plastic constants
+1	anisole
+1	anions
+1	anionic ligand
+1	anion
+1	anhydrous dimethyl sulfoxide
+1	angular momentum associated with the relative coordinates of the q4 subsystem
+1	angle resolved photoemission spectroscopy
+1	analyzing the energy fluctuations
+1	analyzing big data
+1	analyzes the main factors
+1	analyze the long-run impact of the electricity market design on transmission line expansion
+1	analyze the lettered words from the perspective of Ecolinguistics
+1	analyze the change of the cycles of the load overall
+1	analyze different approaches to recover network cost
+1	analytical method
+1	analytical framework
+1	analytic model potentials
+1	analysis task
+1	analysis system
+1	analysis of time series
+1	analysis of the displacement interaction between two identical piles
+1	analysis of moving plate recognition system's basic principles
+1	analysis of antiproton attenuation
+1	analysis models
+1	analyses of pollen tube growth
+1	analyses and interpretation of the interior orientation
+1	analyse problems that involve rarefied gas flows in complex micro geometries
+1	an apposite well-supported statistical model
+1	an anionic liposome
+1	an acrylic terpolymer with pendent perfluoroether segments
+1	amplification of the residual
+1	amorphous alumina
+1	ammonoid mass occurrence
+1	ammonia
+1	ambient temperature
+1	ambient air
+1	aluminum
+1	aluminium substrate
+1	aluminium gate electrodes
+1	alumina boats
+1	altering the growth time
+1	alloys with substantially improved oxidation resistance
+1	alloy
+1	allow users with little or no experience operating MATLAB® and/or performing mineral formula recalculations and uncertainty propagation to undertake both with ease
+1	alleviate the exponential increasing difficulty
+1	all-electron correlated calculations
+1	alkylamine
+1	alkyl groups
+1	algorithms of topological operations
+1	algorithms for finding integer solutions
+1	algorithms for automatic generation of logic reasoning questions.
+1	algorithm of selecting aspect relevant test cases
+1	algorithm of multi-axis NC tool-path generation for subdivision surfaces
+1	algorithm of multi-axis NC tool-path generation
+1	algae
+1	alanine dipeptide
+1	aked for 2min at temperatures of up to 330°C
+1	ai⁎(λ
+1	air void content
+1	air chambers
+1	agricultural products supply chain
+1	agricultural producing
+1	agreement between the new data and the calculations with the relativistic deuteron wave function
+1	aging population trend
+1	aggregation
+1	agents
+1	agent-based system
+1	afore-described centralized methods
+1	affective movie clip corpus
+1	aerospace
+1	aeroengine configurations
+1	aero-engine components
+1	advantages of recently updated seismic tomographic techniques
+1	advancing crack tip
+1	advanced solver design
+1	advanced machine learning methods
+1	adoptively-transferred T-cells
+1	administrative system
+1	administrative management system
+1	administration of targeted particles
+1	adjuvant drug
+1	adjuvant
+1	adjusts the throttle valve
+1	adjusted to accommodate buoyancy effects
+1	adjusted if the separation of inputs and predefined classes incurs an error
+1	adjoint approach
+1	adhesives
+1	adhesive contact problems
+1	adhesion/cohesion of the coating
+1	adhesion/cohesion
+1	adequate sampling
+1	additive controller gain variations
+1	additional dressings of the world-sheet parity symmetry
+1	adapts
+1	adaptive training
+1	adaptive retraining of the GMM–HMM parameters
+1	adaptive beamforming techniques
+1	adaptive algorithm
+1	adaptive SVR-HMDR
+1	adapting the boundary distribution
+1	adapt the existing methods for finding real solutions
+1	active polar viscous gels
+1	activation monitor sets.
+1	activation
+1	activate innate immunity
+1	acrylates
+1	acquire such knowledge and skills
+1	acoustic frequencies
+1	acidification
+1	achieve fiber-like structures
+1	accurately estimate the pupil center
+1	accurate molecular dynamics simulations
+1	accurate microscopic observations
+1	accurate databases of distribution companies
+1	accurate and physically valid results
+1	accuracy comparisons
+1	accumulating the logs as:(6)sl=1N∑t=1Nlogp(Ll|xt​, θ)
+1	accounting explicitly for the effects of uncertainty
+1	accommodate the difference in surface area between the two surfaces
+1	accident tolerant fuels
+1	access part of the mass range favored by the LEP results
+1	accept energy from excitons
+1	accelerator and the suppressor.
+1	accelerating voltage of 30kV
+1	abstract and analyze the power grid security investigation procedure
+1	absorption of the moisture
+1	absorber layer
+1	absorber and boron layers
+1	absorb
+1	absolute instability
+1	abrasion-resistant finishing layer
+1	aberration-corrected transmission electron microscopy
+1	ab initio calculations
+1	aY⁎(λ)
+1	aNAT procedure
+1	aNAT model
+1	aD⁎(λ)
+1	a-SiO2 leading
+1	a-C:H layers
+1	a specific distance metric such as Euclidean distance
+1	a single missed level
+1	a single VO with three Oi
+1	a set of orthogonal vectors
+1	a semiconducting matrix and embedded ferromagnetic nanostructures
+1	a parametric-model-based method
+1	a nonparametric-model-based method
+1	a nonlinear parametric model
+1	a new distance function
+1	a new MATLAB® based program
+1	a much larger magnetic anisotropy
+1	a manufacturing method
+1	a least squares (LS) approach
+1	a good candidate for the integration
+1	a geographical distance
+1	a full-fledged commercialized medical product
+1	a direct cooperation protocol
+1	a collection of fermionic fields describing confined quarks
+1	[(CpMe)2HfOMeMe] precursor
+1	Zr clads
+1	Zr alloys
+1	Zn(II)–OEP
+1	Zn
+1	Zirconium
+1	Zircaloy-4
+1	Yukawa couplings in the quark and charged lepton sectors
+1	Yukawa couplings
+1	Yinchuan Plain
+1	YSZ
+1	Y2O3
+1	XRD patterns
+1	X-ray nano-CT
+1	X-ray emission spectroscopy
+1	X-ray absorption spectroscopy
+1	Word Sense Disambiguation algorithm
+1	Wingerʼs spin selection rule
+1	Willis type clusters
+1	Wigner's statistics
+1	Weyl's law describing the average spectral density
+1	Weyl tensor
+1	Web applications
+1	Water
+1	WTO
+1	WSN
+1	WKB limit of quantum theory
+1	WIFI-based VOG system
+1	WGSR
+1	WC-Co
+1	WASI
+1	W2 variants
+1	W/O
+1	W-encapsulated Si12 hexagonal prism cage
+1	W+n ions
+1	W sputtering
+1	W net erosion
+1	W gross erosion
+1	W fluxes
+1	W atoms
+1	W and Be with O2
+1	Volterra model of nonlinear systems
+1	Voc of 873
+1	Voc of 864
+1	Visio second development method
+1	Vietnamese text summarization
+1	Video-oculography
+1	Varnish Plant
+1	VU defect
+1	VU
+1	VPGFG–(IPGVG)4
+1	VPGEG–(IPGAG)4
+1	VG1
+1	VAD
+1	U–Xe
+1	Utah's adult population thinks about water issues
+1	Understanding why this transition behaviour happens
+1	UO2−x
+1	UO2–PuO2 phase boundaries
+1	UO2|U couple
+1	UO2+x
+1	UNCD wafer
+1	UNCD
+1	Two-state models
+1	Transmission electron microscope images
+1	Transmission Electron Microscope
+1	Topological insulators
+1	Toll-like receptors
+1	Titanium aluminides
+1	Timur-Coates models
+1	TiAl alloy
+1	Ti-Al system
+1	Ti
+1	This factorization framework
+1	Thin MIEC layers
+1	These therapeutic schedules
+1	These equations, along with conservation of momentum
+1	Thermogravimetric analysis
+1	Thermal performance of the smart window
+1	The search for the Higgs boson
+1	The presented nanocomposite
+1	The fuzzy decision function
+1	The ferromagnetic characteristics
+1	The factorization formula
+1	The GFRFs of nonlinear systems
+1	The Creutz model
+1	Th1-biased cytokines
+1	Tevatron
+1	Taylor expansion
+1	Tack
+1	Table 1 shows the time intervals chosen for examination
+1	Ta and Re cations
+1	TVD differencing
+1	TTS
+1	TSV filling
+1	TSV
+1	TST
+1	TSH
+1	TRISO particle
+1	TRIO wet channel
+1	TM
+1	TLRs
+1	TLR9
+1	TLR ligands
+1	TFTs
+1	TEMs
+1	TEM techniques
+1	TEM samples
+1	TEM images
+1	TEM holders
+1	TD-PSD
+1	T20 parameter of deuteron breakup on H and C targets
+1	T-splines
+1	T-odd fragmentation functions
+1	T-cell receptors
+1	T-S model
+1	T-S fuzzy model
+1	Synchrotron X-Ray Diffraction
+1	Survival times
+1	Supplementary material
+1	Structural adhesives
+1	Stern–Gerlach-type contributions
+1	Stern–Gerlach force
+1	Step-growth polymerization
+1	Steel rebars
+1	Static and dynamic tests results are discussed
+1	Static and dynamic tests
+1	Stable inverse miniemulsions
+1	Sr
+1	Spherically symmetric solutions
+1	Speech segments
+1	Spark plasma sintering
+1	Some generalized programs
+1	Solitons
+1	Solid pieces
+1	SoftLithoBox®
+1	Social network gaming
+1	Social network games
+1	SoC (
+1	SoC
+1	Sn=defΩ×In
+1	Sn
+1	Smmechmix=XASmA+XBSmB
+1	Skyrme models
+1	Si–O bonds
+1	Si–O bond dissociation
+1	Si–O bond
+1	Simulation data
+1	Silicon
+1	SiC grains
+1	Si atoms
+1	Shuffled Complex Evolution
+1	Shading
+1	Several stamps were produced
+1	Setaram Multi-detector High Temperature Calorimeter
+1	Sentence reduction
+1	Semiclathrate hydrates
+1	Seismic tomography
+1	SeaWiFS Bio-Optical Archive and Storage System
+1	SeaBASS
+1	Scripthon language
+1	Screws
+1	Scrambled peptide-functionalized liposomes
+1	Schweitz virial relation
+1	Schwarz methods
+1	Schrödinger-electrostatic algorithm
+1	Schrödinger equation under polar decomposition of the wave function
+1	Schrock type molybdenum alkylidene initiator
+1	Schottky trivacancy defects
+1	Schlumberger Doll Research
+1	Scanning TEM (STEM) detector
+1	Scanning TEM
+1	Sample Matrix Inversion
+1	Salpeter equation
+1	SVR-HDMR
+1	SV segments
+1	SV
+1	SUSY particles
+1	SUSY
+1	SU(2)R
+1	STOE Win XPOW software
+1	STM probes
+1	STEM measurements
+1	STEM
+1	SSTPS formulation
+1	SRC-HE
+1	SPM
+1	SPECTROLAB JR.CCD 2000
+1	SNG market
+1	SMI
+1	SL[DXR]
+1	SLD
+1	SITA pro line t-15 bubble tensiometer
+1	SF6 gas
+1	SETSPICE
+1	SEMs
+1	SEM images
+1	SDR
+1	SDO sum rule and lattice calculations
+1	SDO sum rule
+1	SDG
+1	SDD
+1	SCImago Journal Score
+1	SAOS
+1	SAFT-γ SW
+1	SAA
+1	SA change
+1	S=defΩ×I=S1∪S2⋯∪Sn
+1	S=defΩ×I
+1	S-XRD
+1	Rubbery additives
+1	Ru(Zr)+Zr(Ru)
+1	Role-Based Access Contro
+1	Robust and automatic thresholding
+1	Robin condition(11)
+1	Rheological measurements
+1	Reynolds number flows
+1	Reynolds number
+1	Revetest system (CSM Instruments SA, Switzerland) equipped with a H-270 diamond indentor (200μm diameter)
+1	Replica molding
+1	Replacement
+1	Reissner–Nordström black holes in Friedman–Robertson–Walker universe
+1	Reissner–Nordström black hole
+1	Reissner–Nordström AdS black holes
+1	Reissner–Nordström AdS background
+1	Regioselectivity of second cycloaddition
+1	Reducing a certain voltage
+1	Recursive Least Squares
+1	Rectangular noble metal thin film current collectors
+1	Randall–Sundrum model
+1	Radiance extension
+1	Ra
+1	RT simulators
+1	ROMP-able optical sensor molecules
+1	ROMP derived random copolymers
+1	ROMP
+1	ROM polymer’s side chain
+1	ROM polymers
+1	RMh
+1	RLS
+1	RIE
+1	RCA cleaning
+1	RBAC
+1	RAMSI
+1	RAFT
+1	R-symmetry group
+1	R-symmetry
+1	R-charge 23
+1	Quark–Meson Coupling
+1	Quantitative risk analysis approaches
+1	Quantitative material parameters
+1	QMC
+1	QD capacitive coupling
+1	QCD sum rules
+1	QCD factorization framework
+1	QCD background
+1	Q00 band
+1	Proteus thermal analysis software
+1	Progressive photon mapping
+1	Probabilistic and stochastic approaches
+1	Principal Component Analysis method
+1	Pressurised Water Reactors
+1	Power and particle exhaust
+1	Power Grid reasoning expert system
+1	Powder metallurgy
+1	Position Resizer,
+1	Porosity
+1	Polyurea coating
+1	Polymerization
+1	Polydimethylsiloxane
+1	Poly-blocks
+1	Polish and plWordNet
+1	Poissonian sequence
+1	Poisson distributions
+1	Poisson
+1	Philips XL-30 FEG ESEM
+1	Pg
+1	Permutation Flow-shop Scheduling and Capacitated Vehicle Routing
+1	Permutation Flow-shop Scheduling
+1	Pb
+1	Pauli equation
+1	Pauli blocking
+1	Parameterised Post-Newtonian
+1	PX-NOM
+1	PX oxidation
+1	PX
+1	PWSCC
+1	PWR
+1	PVA
+1	PT pump work Principle was analyzed
+1	PSR applied to vessels
+1	PSR
+1	PSO
+1	PSA
+1	PRS
+1	PROBE AMPH
+1	PPN
+1	PPLs
+1	PODS
+1	PMS
+1	PLS regression
+1	PL, penalty or statically condensed PL formulations
+1	PL formulation
+1	PID controller
+1	PH
+1	PFCs
+1	PEN
+1	PEGDMA hydrogel
+1	PEGDMA
+1	PEDOT:PSS solutions
+1	PEDOT:PSS fluids
+1	PE chains
+1	PE
+1	PDMS-based microfluidics
+1	PDMS-based LOC devices
+1	PDLAPRG
+1	PDLAP2
+1	PDLAP1
+1	PDLA
+1	PDEs
+1	PCA extraction algorithm
+1	PB compilation
+1	PAV
+1	PANalytical Empyrean diffractometer
+1	PAA inter-penetrating network
+1	PA nanofibers
+1	P=(−)ℓ+1
+1	P91 steels
+1	P91
+1	O–Xe
+1	Oxford Instruments OpAL reactor
+1	Overlay Processor
+1	Otsu thresholding algorithm
+1	Otsu scheme
+1	Otsu algorithm
+1	Other recent studies
+1	Optical microscopes
+1	Oil-soluble nonionic surfactants
+1	Oi
+1	Obstacle detection
+1	Obstacle classification
+1	Observations
+1	OPE
+1	OH lines
+1	OH
+1	ODS particle
+1	ODS
+1	O2 plasma
+1	O2 molecule adsorption and reaction
+1	O(N) recursive robot forward dynamic algorithm
+1	O(N) recursive robot
+1	O symmetry
+1	O
+1	N∗(1535)
+1	N∗(1440)
+1	Numerical simulation of the gas flow
+1	Nuclear theory
+1	Nth order polynomial
+1	Non-destructive X-ray nano-computed tomography
+1	Non-Uniform Rational B-spline
+1	Noise Filter
+1	Ni–Fe [35] thin films
+1	Ni-tubes
+1	Ni-base superalloys
+1	Newtonian fluid
+1	Netzsch STA 449C instrument
+1	Nb-based intermetallics compounds
+1	Nb
+1	Navier–Stokes approach
+1	Nanolab 600
+1	Nanofeature stamps were then created from the samples
+1	Na surface
+1	Na bath
+1	N^ synthetic KPIs
+1	NURBS-based representation of CAD models
+1	NURBS-based representation
+1	NURBS-based IGA
+1	NURBS volumes
+1	NURBS surfaces
+1	NURBS objects
+1	NURBS basis functions
+1	NSGA-II algorithm
+1	NRQCD
+1	NNLO
+1	NMR
+1	NJL model studied
+1	NHIMs
+1	NEXUS 3.97
+1	NASA bio-Optical Marine Algorithm Data set
+1	N=4 SYM
+1	N=2 supersymmetric U(1) gauge theory
+1	N=1/2 superspace
+1	N=1/2 super-Yang–Mills theory with adjoint matter
+1	N=1/2 super-Yang–Mills theory
+1	N-dimensional vector space basis
+1	N, Δ(1232)
+1	Multi-phase flows
+1	Multi-Layer Perceptron
+1	Multi-Clouds strategy
+1	Multi-Clouds
+1	Mth order polynomial
+1	Mossbauer spectroscopy
+1	Monte Carlo techniques
+1	Monte Carlo single-electron circuit simulations
+1	Monte Carlo simulations
+1	Monte Carlo raytracing
+1	Monte Carlo program
+1	Monte Carlo method
+1	Monte Carlo code
+1	Monte Carlo algorithm
+1	Monitoring the wear condition
+1	Modified Census Transform
+1	Models
+1	Modeling or approximating high dimensional, computationally-expensive problems
+1	Modeling collaboration processes
+1	Modeling
+1	Model independent methods
+1	Mo
+1	Mn
+1	Mixtures of n-alkanes and H2O
+1	Minkowski space
+1	Mie⁎
+1	Microhardness
+1	MicroCT
+1	Mice bearing the orthotopic model
+1	Metropolis MC scheme
+1	Methods
+1	Metal–intermetallic laminated
+1	Memory Controller Interface
+1	McVittie's solution
+1	Maxwell's equations of motion
+1	Maxwell fields
+1	Max-linear programs
+1	Matlab® programming
+1	Matlab programs
+1	Market splitting
+1	Maple computer program
+1	Many similar values
+1	Majorana fermions
+1	MWSN routing protocols
+1	MWSN routing
+1	MSSM chiral superfields
+1	MR∼1010–1015
+1	MPSP
+1	MP3
+1	MOS gate electrodes
+1	MMPPs and MAPs
+1	MMA
+1	MLP
+1	MINERAL (MINeral ERror AnaLysis)
+1	MIL
+1	MIEC layer
+1	MEMA
+1	MDHTC-96
+1	MD simulation
+1	MD
+1	MCT Generator
+1	MCT
+1	MCB
+1	MC
+1	MBE load lock
+1	MAP model
+1	MANET protocols
+1	MANET
+1	M3PPs
+1	Low oxygen partial pressure
+1	Looking for glueballs
+1	Longitudinal beam and target single-spin asymmetries
+1	Long term studies in Finland
+1	Linear Temporal First-Order Logic
+1	Lettered words
+1	Leff=−14FμνaFaμν+M2−FμνaFaμν
+1	Lees–Edwards cell
+1	Least Mean Squares
+1	Lattice sizes
+1	Large Hadron Collider
+1	Lagrangian description
+1	Lagrangian
+1	La4Ni2FeO10
+1	La0.6Sr0.4CoO3−δ
+1	LSM
+1	LSC films
+1	LSC
+1	LR
+1	LPF cores
+1	LP-rounding procedure
+1	LMS
+1	LMI problems
+1	LLA
+1	LEO 1530VP FEGSEM
+1	LCPRG
+1	LCDA
+1	LADP
+1	LA, LAP1 or LAP2
+1	L-shaped method
+1	K∗
+1	K±
+1	K¯*0
+1	Kronecker operators
+1	Kratky plots
+1	Keithley 617B electrometer
+1	Keithley 230B voltage source
+1	Kawarabayashi–Suzuki–Riazuddin–Fayyazuddin relation
+1	Karmanov's deuteron wave function
+1	Ka la OK
+1	KM
+1	K+(p1)K¯0(p2)ρ−:h2(p1−p2)μεμ
+1	K*0
+1	K
+1	Jerk amplitude
+1	Jeol 2000FX W-filament TEM
+1	Jensen's inequality
+1	Jena
+1	Java source code snippet detection
+1	Jahn–Teller distortion
+1	JW prediction
+1	JPC
+1	J/ψgg production mode
+1	Isogeometric BEM
+1	IsogEometric Tearing and Interconnecting
+1	Isochrysis galbana
+1	Irving–Kirkwood relationship
+1	IrRep
+1	Investment casting
+1	Inverse miniemulsion polymerization
+1	Interpretation
+1	Interclouds
+1	Influence Score
+1	Increased degree of freedom
+1	In situ oxidation
+1	In Situ Adaptive Tabulation
+1	Improving as well as evaluating the performance
+1	Impressed Current Cathodic Protection
+1	Immunopotentiators
+1	Image Scaler
+1	Image Rotator
+1	Image Resizer,
+1	ISPM
+1	ISAT approach
+1	IPN
+1	IOCCG (2006) data bank
+1	IOCCG
+1	IM-HM11-03
+1	IM-HM11-02 films
+1	IM-HM11-02 film
+1	IM-HM11-02
+1	ILMAT
+1	IK equation
+1	IGSCC
+1	IGAFEM
+1	IETI framework
+1	IETI
+1	IEDP measurements
+1	IEDP
+1	IDS
+1	ICP etching
+1	ICP
+1	ICCP system
+1	IC production
+1	IAS
+1	H→γγ
+1	Hybrid mesons
+1	Hulse–Taylor binary pulsar
+1	Hubble constant drops to a value comparable to the mass of the scalar fields
+1	Hot Isostatic Pressing
+1	High Performance Computing
+1	Higgs production mechanism
+1	Higgs decay
+1	Higgs boson
+1	HiPco (high-pressure CO) process
+1	HfO2 depositions
+1	He–He interactions
+1	Heterophase polymerizations
+1	He interstitial clusters
+1	He atoms
+1	Hawking–Page phase transition
+1	Hamiltonian description
+1	Hamiltonian approach
+1	Hamiltonian
+1	Hall effect
+1	HYPER-FORM
+1	HPC cluster
+1	HPC
+1	HP 4192A low frequency (LF) impedance analyzer
+1	HOMOylide–pyrene–LUMOylide
+1	HERMES and CLAS experimental Collaborations 
+1	HERA energies
+1	HEPES-buffered saline
+1	HEMA
+1	H2/H218O atmosphere
+1	H2/Ar
+1	Good patterns
+1	Gold wire contacts
+1	Geomagnetic jerks
+1	Genetic Algorithm
+1	Ge wafers
+1	Ge (100) wafers
+1	Gaussian-distributed
+1	Gaussian distribution in space
+1	Garden Sprinkler Effect
+1	Gamma titanium aluminides
+1	Galvashield CC anodes
+1	Galerkin scheme
+1	Galerkin projection
+1	Galerkin method
+1	Galerkin finite element method
+1	Galerkin
+1	GaN/AlN interfaces
+1	GaN layer
+1	Ga atoms
+1	Ga
+1	GT graph
+1	GT
+1	GPYRO
+1	GP measurements
+1	GO methodology algorithm
+1	GO methodology
+1	GMM–HMM model
+1	GEVD
+1	GCC-PHAT step
+1	GCC-PHAT
+1	GCC algorithm
+1	GA
+1	G/H sigma model with H simple
+1	Further studies
+1	Fully discrete numerical schemes
+1	Fukugita–Tanimoto–Yanagida hypothesis
+1	Fresnel reflection and transmission phenomenas
+1	Fragmentation testing
+1	Fourier analysis
+1	Fourier Transform Mechanical Spectroscopy
+1	Foreign Direct Investment
+1	Focused Ion Beam
+1	First-principles calculations
+1	Finite element analysis
+1	Finite Element Tearing and Interconnecting
+1	Films of the SoC
+1	Film Stim selection
+1	Film Stim database
+1	Film Stim
+1	Film
+1	Field examples
+1	FiRECAM
+1	FiERAsystem
+1	Ferromagnetism
+1	Ferritic and martensitic steels
+1	Fermi–Dirac distribution
+1	Fermionic fields
+1	Fermi and Gamow–Teller transition strengths
+1	Features
+1	FeCl3
+1	Fe3+-O-Mo-O-Fe2+
+1	Fe3+
+1	Fe2O3
+1	Fe2+-O-Fe3+ exchange
+1	Fe2+-O-Fe3+
+1	Fe-Co thin films
+1	Fe interstitials
+1	Fe electrons
+1	Fe and impurities
+1	Faults in the connections of stirrups
+1	Faraday and Kerr magneto-optical effect
+1	Failure of structural components
+1	FWupstrem
+1	FR methods
+1	FR approach
+1	FR
+1	FIB-milling
+1	FIB thinning
+1	FIB sample preparation route
+1	FIB sample
+1	FGA
+1	FETI methods
+1	FEM
+1	FEG-SEM
+1	FEA
+1	FE
+1	FB→V
+1	E′ centres in α-quartz
+1	E′ centre
+1	Extreme value analysis
+1	Exponential Time Differencing
+1	Evolutionary algorithms
+1	Evolutionary Algorithms
+1	Evolution equations for quasi-partonic operators
+1	Evac
+1	Equilibrium surface tension
+1	Epoxies
+1	EoS
+1	Enumeration method
+1	English speaking participants
+1	English and Princeton WordNet
+1	Energy conservation
+1	Emotional Movie Database
+1	Emission of interracial loops
+1	Elementary interactions
+1	Einstein–Hilbert action
+1	Einstein's post-Newtonian equations of gravity
+1	Ecolinguistics
+1	Earth’s magnetic field
+1	EXAFS data
+1	EVA
+1	ETD Runge-Kutta 4 technique
+1	ETD
+1	EOM-CCSD method
+1	EMO
+1	EMG pattern recognition systems
+1	EM sensor signal
+1	EM sensor
+1	EM properties of the individual phases
+1	ELR-based system
+1	ELM
+1	EKF
+1	EIS
+1	EDXD data
+1	EDAX Genesis EDS system
+1	ECD process optimization
+1	ECD
+1	EC2 Cloud system
+1	EBL and HSQ development, t
+1	EBL
+1	EAs
+1	E-Procurement
+1	Dynamical stability of such objects
+1	Double-exchange mechanisms
+1	Double exchange mechanisms
+1	DoD print head devices
+1	Distance fields
+1	Discontinuous Galerkin
+1	Dirac's magnetic monopole
+1	Dirac neutrino mass matrices
+1	Dirac equation for the quark in infinite quark matter
+1	Dirac equation
+1	Digital libraries
+1	Diffusion
+1	Different types of primitive functions and network configurations
+1	Deviations from this relationship
+1	Determining if a datum is normal or anomalous
+1	DepSky
+1	Davis Weather Station
+1	Data Grouper
+1	Darwish and Moukalled
+1	DSC
+1	DQD electrometer
+1	DOTMA
+1	DOT reconstructions
+1	DOPE
+1	DNNs
+1	DNN
+1	DLS based micro-rheology
+1	DLS
+1	DG-based shallow water model
+1	DG polynomial accuracy
+1	DG method
+1	DBS
+1	DBR stack in the wing regions
+1	DBR layer
+1	D2
+1	D-T reactor
+1	D and C ions
+1	D
+1	Cumulative Averaging Method
+1	Coupons
+1	Coulomb piece
+1	Coulomb logarithm
+1	Coulomb effects
+1	Cosmic maser radio sources
+1	Correlation of charm-quark–charm-antiquark in γp scattering
+1	Copper electro-chemical deposition (ECD) of through silicon via (TSV)
+1	Copper electro-chemical deposition
+1	Convergence
+1	Conventional continuum fluid dynamics
+1	Contractor selection
+1	Conjugate Gradient Method
+1	Confidence Switch
+1	Confidence Mappe
+1	Condensation form of sequential Monte Carlo sampling
+1	Component reliability parameters
+1	Color Space Converter
+1	Color Overlay Processer
+1	Collins function
+1	Co is heated
+1	Co
+1	Cloud of Clouds
+1	Cloud environments
+1	Cloud Computing provider
+1	Cloud Computing
+1	Chinese vocabulary
+1	Changbaishan, Tengchong, Hainan volcanoes as well as the Datong
+1	Central scission
+1	Casimir forces or Lamb shift
+1	Casimir force
+1	Casimir effects
+1	Cartesian staggered grids
+1	Capacitated Vehicle Routing benchmarks
+1	Canny algorithm
+1	Candidate Detector,
+1	Calculations in the maximally extended N=4 SYM, where the coupling constant is not renormalized
+1	Ca2–xSrxFeMoO6–δ
+1	Ca
+1	CT
+1	CSTR process
+1	CSM
+1	CRPA
+1	CRP techniques
+1	CRG
+1	CPN−1=SU(N)/SU(N−1)×U(1) models for N>2
+1	CPD
+1	CP violation mechanism
+1	CP violation
+1	COx
+1	COMSOL’s FEM-based electrostatics simulator
+1	COD
+1	COAPT complete control system
+1	CO2
+1	CNTs
+1	CMC
+1	CLH 400.1
+1	CL points
+1	CIS(D)
+1	CIRC
+1	CH3OH
+1	CH3 and CH2
+1	CGM
+1	CG
+1	CFL or normal quark matter cores
+1	CFL number
+1	CCSDR(3)
+1	CCSD
+1	CCS
+1	CCFM uGDF
+1	CC3
+1	CC2
+1	CB⁎¯
+1	CAM
+1	CALCMIN
+1	CAG and SFEM formulations
+1	CAD models
+1	CA
+1	C60
+1	C5H6+ ion signal
+1	C5H6+
+1	C3D_8N_8I
+1	C3D_8N_27C
+1	C10H12+ ion signal
+1	C10H12+
+1	C atoms
+1	C
+1	Brittle metals
+1	Brass
+1	Born–Infeld corrections
+1	Born–Infeld black holes
+1	Bonita open solution
+1	Bi2Se3
+1	Bethe–Salpeter equation
+1	Bernoulli-type free-boundary problems
+1	Bender's decomposition
+1	Belle 
+1	Bayesian network model
+1	Bayesian Network model
+1	Bank Account System
+1	Band structure calculations
+1	Background subtraction and peak integration
+1	Back diffusion
+1	BaBar
+1	Ba
+1	BRST terminology
+1	BRST cohomology theorems
+1	BN
+1	BEBC
+1	BDDC preconditioners
+1	BA
+1	B3LYP/aug-cc-pVTZ
+1	B decays
+1	Aναβ equation of motion leads
+1	Ayy data
+1	Aspect-oriented Programming
+1	Artificial Neural Networks
+1	Applying laser control principles
+1	Another choice
+1	Anomalies
+1	Anodizing processes
+1	Animals
+1	Angular distributions
+1	Amazon's HPC Cloud
+1	Al–Si cast alloys
+1	Al–12Si alloy
+1	Algorithms regarding distance fields
+1	AlN layer
+1	Al3Ti forming
+1	Al3Ti
+1	Al2O3 layers
+1	Al2(SO4)3,
+1	Al-Si alloys
+1	Al flux
+1	Al discharge layer
+1	Al alloy
+1	Air entrainment
+1	Ag
+1	Aeroengine turbine disks
+1	Adaboost learning algorithm
+1	Activation
+1	Absorption events through the charged current reactions
+1	Abelian symmetry
+1	Abaqus
+1	Aaμ equation of motion
+1	ATRP
+1	ASR
+1	ARPES measurements
+1	ARIMA- GARCH-M model
+1	ARES rheometer
+1	ANSYS
+1	ANO
+1	ANN basic architecture
+1	ANN
+1	AMPH CLASS
+1	AM parts
+1	ALD
+1	AI techniques
+1	AGS energies
+1	AGM revision
+1	AFMs
+1	ACT T-cells
+1	AC-TEM observations of the formation and annealing of Stone–Wales defects
+1	AC-TEM observations
+1	AC-TEM
+1	AC pavement composite permittivity
+1	ABCs
+1	AAMM (no adapt.)
+1	A5
+1	A2FeMoO6–δ
+1	A nanocomposite system
+1	A
+1	9–12% Cr martensitic steels
+1	980 sentences
+1	9 and 14at.% Cr
+1	74% Ni, 16% Cr and 8% Fe
+1	734 blocks
+1	6s5p4d3f1g
+1	6 datasets
+1	5% H2/Ar
+1	4.38 MeV in 40K
+1	4-electron-step
+1	3mm diameter discs
+1	3d time-varying datasets
+1	3D-visualization
+1	3D superconducting nanodevices
+1	3D structural data
+1	3D simulations
+1	3D model
+1	3D integration
+1	3D finite element based (FEM) COMSOL capacitance analysis
+1	3D BEM
+1	3-branes with negative tension
+1	3-D velocity structure
+1	2–4 drops of Bi2UO6 samples
+1	2D pits
+1	2D pit propagation
+1	2D pit
+1	2D images
+1	2D disks
+1	2D BEM
+1	2-hydroxyethyl methacrylate
+1	1f spectral behavior
+1	1D pencil electrodes
+1	18O
+1	14YWT
+1	12C(d,p)X reaction
+1	114≲mH≲160 GeV
+1	10 strings of 24 modules per string
+1	10 strings of 18 modules per string
+1	1-tailed Wilcoxon signed rank test
+1	1,3-DC of pyridinium ylides
+1	1,3-DC
+1	0.593–1.118 eV
+1	+(k+)
+1	(unweighted) digraphs
+1	(time
+1	(super)symmetric state
+1	(soft) parton ladder
+1	(multi-)strange baryons
+1	(RO)BDDs
+1	(LHC)
+1	(BixSb1−x)2Te3
+1	(30)iγ·∂−m−Vqs−γ0VqvψQMq(x)=0
+1	(3)Iact=I×0.850.85+dη
+1	(2)w=εμναβ∂μAναβ
+1	(13)σ=ftexp(−ϵinhwft)if(ϵin>0)
+1	(12)π+(p1)π−(p2)ρ0:h(p1−p2)μεμ
